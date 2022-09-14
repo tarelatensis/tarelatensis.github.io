@@ -1,0 +1,185 @@
+\section{Friar Julian's Letter on the Life, Religion and Origin of the Tartars: The first Western account of the Mongols (1238).}
+
+%\begin{center} 
+%\small{Thomas Arelatensis - 30 December 2021}
+%\end{center}
+
+{\ }
+
+\begin{quote}
+\emph{``Made more audacious by these acts, and fancying himself stronger than anyone on Earth, he began to march against all the nations of the world, proposing to subjugate them to himself.''}
+\end{quote}
+
+{\ }
+
+
+\subsection{Introduction}
+
+
+This is an English translation of Friar Julian's Letter on the Life, 
+Religion and Origin of the Tartars (\emph{Epistula de Vita, Secta et Origine Tartarorum}), the first eyewitness account of the Mongols to appear in the Latin West.
+
+Julian was a Dominican friar, based in Hungary (though not necessarily a Hungarian himself, see Sinor 2002), who had previously discovered a population of Hungarian speakers on the banks of the Volga, at the confines of Europe and Asia. He called the land of these Volga Hungarians "Hungaria Magna", that is, "Greater Hungary". In this earlier, eventful journey, he had already encountered some "Tartars" (i.e. Mongols) and duly reported on their bellicosity and interest in invading "Alemania"\footnote{Literally ``Germany'', but Hautala 2016 suggests that this was a misunderstanding for "Armenia". Note that there is some dispute about the veracity of this earlier journey; see Sinor 2002, Dienes 1937, Hautala 2016.}. 
+
+After returning to Europe, in 1237, he was ordered to go back to this land, presumably in order to evangelize its pagan inhabitants. However, when he arrived there, he found out that Greater Hungary, together with several other nations in the area, had been utterly devastated by the Mongols. As he was able to ascertain, these very same Mongols were now biding their time in various parts of Russia, preparing for a coordinated attack against multiple cities (this attack, the Mongol invasion of Kievan Rus' under Batu Khan, would indeed take place soon after Julian's return to Europe). 
+
+Julian's letter contains information about the Mongols that he collected from various local sources, including some captured envoys of the Mongol leader that he met personally (see Chapter 4). This information includes a brief history of the Mongol confederation under Genghis and Ogedei, a description of their mores and customs (especially with regard to the grim fate of conquered nations), and an account of their military techniques.
+
+Most remarkably, he also took possession of an actual message from the Mongol Khan to the King of Hungary which had been intercepted by a Russian Duke. The message turned out to be a typical Mongol ultimatum, apparently the first of its kind sent to a Western nation, offering a ``choice'' between immediate submission and total destruction. The message ends with this memorable exhortation:
+
+\begin{quote}
+"It is indeed easier for [the Turks] to escape [from me] than for you, since they, having no houses and marching with tents, may possibly escape. You however, dwelling in houses, having castles and cities, how shall you flee from my hand?"
+\end{quote}
+
+Julian then returned to Hungary and wrote the present letter, which he sent to the Bishop of Perugia (at the time legate of the Pope for Hungary), imploring him to take measures against the impending Mongol threat. One manuscript states that this message was then sent to the King Bela IV of Hungary, who transmitted it to various ecclesiastical and secular authorities. 
+
+By the time Julian had returned to Hungary and written this letter, the Mongols had already overtaken many of the Russian cities he mentioned in it, including Riazan and Suzdal. Four years later, they would make good on their threats and invade Hungary, defeating the Hungarian army at the battle of Mohi (1241) and laying waste to the land before returning to Asia the next year. However, King Bela would ultimately survive the onslaught and rebuild his country after the Mongols' departure.
+
+Julian's travel, and the resulting letter, are dated by all scholars to 1237 and 1238; Sinor (2002) dates Julian's return to December 27, 1237, and the letter itself to early 1238. As such, it constitutes the first direct Western account of the Mongols, predating John Plano Carpini and William of Rubruck by several years or decades; indeed, these latter authors are thought to have been familiar with Julian's travels (Dienes 1937, Hautala 2016), as were the chroniclers Matthew Paris (Papp 2005) and Alberic of Trois-Fontaines (Dienes 1937, Hautala 2016). 
+
+Bendefy (1937) summarizes Julian's impact thus:
+
+\begin{quote}[This] explorer made known to the West as much land as all of Australia, so that I may put it briefly: Julian is the Columbus of the Orient... Julian's journey is not only memorable to the geographers. While indeed from him starts the age of geographical investigations, he then opened the way to Catholic missions to the far East. If Julian had not existed, neither John Plano de Carpini, nor William of Rubruck, nor Marco Polo would have undertaken their journeys.\end{quote}
+
+
+\subsubsection{Sources and text}
+
+Julian's letter survives in three different versions, that differ somewhat in length and content. All three versions, with complete information about the relevant manuscripts, are reproduced by Bendefy (1937). For this translation, however, I used the edition of Dörrie (1956), which is a "consensus version", collating the contents of all three sources to arrive at a single, comprehensive text. I used the version on the Corpus Corporum website for convenience, despite its numerous transcription errors; many other copies of this edition are available online.
+
+To my knowledge there is currently no English translation of this text available online. In fact it is not clear that there is any English translation anywhere. Sinor (2002) mentions translations in Hungarian, Russian and German (none of which I could access), but not in English; Sinor himself translated the Khan's ultimatum into English (Sinor 1999), but not the rest of the letter. 
+ 
+The translation is kept as literal as possible, consistently favoring fidelity over elegance. This includes preserving repetitions and apparent omissions, as well as the lengthy sentences of the original. The punctuation is largely D{\"o}rrie's. The text is generally straightforward, though one passage in Chapter 1 (``Soldanus however, remembering a wrong\ldots'') is somewhat obscure.
+
+
+\subsubsection{Works cited}
+
+All these works are freely available online, except Jackson 2014. 
+
+\begin{itemize}
+
+\item Dörrie 1956: Heinrich Dörrie, Drei Texte zur Geschichte der Ungarn und Mongolen. – Nachrichten der Akademie der Wissenschaften in Göttingen, Phil.-hist.kl., 1956. (Available on the Corpus Corporum website) 
+
+\item Dudik 1855: Beda Dudik, Iter Romanum, 1855.
+ 
+
+\item Hautala 2016: Early Hungarian information on the beginning of the Western campaing of Batu (1235-1242), Acta Orientalia Academiae Scientiarum Hung. Vol. 69 (2), 183 – 199,  2016.
+
+\item Tatar 2005: Ethnic Continuity by the Volga: from Vidini to Vet`ke, in: Haptačahaptāitiš: Festschrift for Fridrik Thordarsson on the occasion of his 77 birthday, 2005.
+
+\item Jackson 2014: Peter Jackson, The Mongols and the West: 1221-1410, 2014.
+
+\item Sinor 2002: Denis Sinor, Le rapport du Dominicain Julien écrit en 1238 sur le péril mongol. Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres. 2002;146(4):1153-68.
+
+\item Sinor 1999: Denis Sinor, The Mongols in the West Journal of Asian History: v.33 n.1 (1999)
+
+\item Dienes 1937: Mary Dienes, “Eastern Missions of the Hungarian Dominicans in the First Half of the Thirteenth Century,” Isis 27 (1937), 225–241, reprinted in The Spiritual Expansion of Medieval Latin Christendom: The Asian Missions, 67–84.
+
+\item Bendefy 1937: László Bendefy, Fontes authentici itinera (1235-1238) Fr. Iuliani illustrantes, Archivum Europae Centro-Orientalis, Tome 3, Fasc. 1-3m 1937.
+
+\item Papp 2005: Zsuzsanna Papp, Tartars on the Frontiers of Europe: The English Perspective, Annual of Medieval Studies at CEU, Vol.11, 2005.
+
+\end{itemize}
+
+{\ }
+
+\emph{Thomas Arelatensis - 30 December 2021}
+
+{\ }
+
+\rule{\textwidth}[   % The open-ended bracket is deliberate, due to a Pandoc bug.
+
+{\ }
+
+\subsection{Letter on the Life, Religion and Origin of the Tartars}
+
+{\ }
+
+
+\subsubsection{Introduction}
+
+To the venerable man, Father in Christ, by the grace of God Bishop of Perugia, legate of the apostolic seat\footnote{Salvius Salvi, legate of the Pope for Bulgaria and Hungary at the time of the letter; see Sinor 2002.}; [I,] Friar Julian of the order of Predicant Friars [Dominicans] in Hungary, servant of your Holiness, [give] reverence, due as much as vowed.
+
+As, in accordance with to the obedience enjoined to me, I had to go to Greater Hungary [i.e. Volga Hungary] with some friars adjoined to me, eager to carry out our journey, once we had arrived at the most distant ends of Russia, we learned the truth of the matter, which was that all the Bishkars\footnote{At the time, largely another name for Volga Hungarians, see Bendefy 1937. Modern Bishkars speak a Turkic language, though they may be related to the Volga Hungarians of the time.}, who are also called pagan [Volga] Hungarians, and the [Volga] Bulgars and however many kingdoms, have been entirely devastated by the Tartars. Still, what the Tartars are, and of which sect they be, as best as we could ascertain, I will presently narrate to you in a straight course.
+
+
+
+\subsubsection{Chapter 1}
+
+
+It was related to me by some, that the Tartars previously dwelled in the land now inhabited by the [Turkic] Cumans, and are said in truth [to be] sons of Ishmael, hence the Tartars now want to be called Ishmaelites. However, the land from which they came out previously is called Gotta\footnote{According to Bendefy 1937: ``Cathay''}, that Reuben called Gottam. 
+
+As for the Tartar war, it first began in this manner: There was leader in the land of Gotta, named Gurgutam [Genghis Khan] who had a maiden sister, presiding over her family due to the passing of their parents, and behaving, as it is said, in a virile manner\footnote{
+Dudik 1855 (p. 329) points out that the apocryphal Manuscript of Dvůr Králové (Königinhofer Handschrifft - a 19th century forgery which was thought genuinely medieval in Dudik's time) also mentions the death of a Mongol princess as the initial cause of the Mongol uprising.}.  She fought against some neighboring leader and robbed him of his possessions. Some time having passed, however, as once again the Tartar nation was pressing to fight against this same leader as they had used to, he, safeguarding himself by [preemptively] initiating war against the maiden, prevailed in the fight, and captured his erstwhile opponent, put her army in flight and herself in captivity, violated her, and as a symbol of great revenge, heinously decapitated the deflowered [maiden].
+
+
+Having heard this, the brother of the maiden, the aforementioned leader Gurgutam, having sent a legate to the said man, is said to have transmitted such a message [as this]: 
+
+\begin{quote}
+``I have gathered that you have deflowered and decapitated my captive sister. You will know that you have committed a deed against me. If my sister was perhaps turbulent against you, causing you wrong with regard to your personal property, you could have reached out to me, seeking a fair judgement of her; or, if willing to avenge yourself by your own hands, you captured her as booty of war and deflowered her, you could have married her. If however you had a plan of putting her to death, by no means should you have deflowered her. Now however, injuring in two ways, you have both brought disgrace to [her] virginal modesty, and deplorably sentenced her to capital death. For this reason, in retribution for the murder of this maiden, know that I am about to come at you with all my forces.'' 
+\end{quote}
+
+Hearing this, the leader who had perpetrated the murder, seeing that he could not resist, took flight with his entourage to Soldanus of Hornach\footnote{Soldanus is probably "Sultan". According to Bendefy 1937, "Hornach"/"Ornach" is P da Carpino's "Ornas", Benedictus Pol.' "Ornarum civitas", Arnače or Ornače in the Russian chronicles, and is the city of Tana or Tanais on the Don river.}, having abandoned his own land. 
+
+These things having been done thus, there was one leader in the land of the Cumans, named Euthet\footnote{Other manuscripts have "Witoph" or "Wroccus"}, whose riches are claimed to be so illustrious that even the beasts in the fields drank from golden troughs. Another leader, named Gureg\footnote{Other manuscripts: "Urech", "Gauex"}, from the river Buchs\footnote{According to Bendfy 1937: river Bug}, fought against him [Euthet] because of his riches, and was victorious. The defeated one, with his two sons and the few that had escaped from the perils of war, took flight to the previously mentioned Soldanus of Hornach. Soldanus however, 
+%mindful of the harm he might have brought upon himself, because his neighbor had risen up
+remembering a wrong [Euthet] had once caused him, because he had been his neighbor\footnote{Uncertain meaning; the passage is obscure.}, hung the refugee himself at the gates and subjugated his people under his dominion. However, the two sons of Euthet immediately took flight, and because they did not have any other refuge, went back to the same Gureg who had previously despoiled their father and themselves. The latter, flying into a wild rage, slew the elder [brother] with horses; the younger, however, fleeing, went to Gurgutam, the leader of the Tartars previously named, requesting insistently to exert vengeance upon Gureg, who despoiled his father and killed his brother, saying these two things, namely, that Gurgutam would honor himself, and that he himself would obtain retribution and vengeance for the spoliation of his father and the murder of his brother. Which was done accordingly.
+
+But after their victory, the young man again asked of Gurgutam that he should [also] take revenge on Soldanus of Hornach for the despicable murder of his father, saying that even the people left behind by his father, who were held almost as captives there, would be to him, under his own command, an army in his advance. This one [Gurgutam] then, raving in his heart and soul at the thought of a double victory, diligently granted what the youth had requested, and, moving against Soldanus, had a glorious and honorable victory. Thus in almost every direction, building upon this laudable victory, Gurgutam leader of the Tartars marched against the Persians in an all-out attack, for certain conflicts that they had previously against each other; in which he was fully victorious and completely subjugated the kingdom of the Persians to himself.
+
+Made more audacious by these [acts], and fancying himself stronger than anyone on Earth, he began to march against all the nations of the world, proposing to subjugate them to himself. 
+
+From there, arriving at the land of the Cumans, he defeated them, subjugating their land to himself. Moving from there to Greater Hungary, from which our Hungarians had their origins, battled against them fourteen years, and in the fifteenth year conquered them, as these same pagan Hungarians related to us in person.
+
+Having defeated them, and turning to the West, within the space of one year or little more, they conquered five great realms of the pagans, Sascia\footnote{Possibly Saqsin; Bendefy 1937 prefers Bascardia, i.e. Bishkaria}, Merowia\footnote{For most scholars, a land near modern Nizhny-Novgorod, at the time populated by the Finnic Meri / Merya people who had been pushed East by Russian colonization. Tatar 2005 argues against this.}; they fought against the kingdom of the Bulgarians, that held forty well-defended cities, so populous that from any of them fifty thousand men in arms could march out. Furthermore they fought against Wedin\footnote{A Muslim land on the Volga, possibly related to the Vidini mentioned by Amminus Marcellus, see Tatar 2005.} and Merowia [\emph{sic}\footnote{This repetition seems to have been introduced by Dörrie's collation of various sources; this list of attacked nations differs between the manuscripts.}], Poydowia\footnote{According to Tatar 2005: Poltava.}, the kingdom of the Mordanes [Mordvins\footnote{Also called "Morducans" later in the letter; a Finnic people now constituting a large ethnic minority in Russia.}] which had two princes; and one of these princes, with all his people and family, had given himself under the dominion of the Tartars, but the other sought well-defended places in which to protect himself with a few of his people, if he could prevail.
+
+
+ 
+
+\subsubsection{Chapter 2}
+
+Now however, as we had stayed within the borders of Russia, we more or less perceived the truth of the matter, that the whole host of the Tartars coming to the western parts, was divided into four parts\footnote{The following passages only describes three of these parts. Sinor 2002 suggests that the overlooked army was located ``further South, on the left bank of the Don''.}. One part, following the river Ethil [Volga\footnote{Most authors agree that the Ethil or Ethyl is the Volga (Sinor 2002, Dienes 1937); But Bendefy 1937 suggests it is the Belaya river, a river somewhat further East that flows into the Volga south of Kazan.}] into the borders of Russia, from the Eastern region, pressed against Suzdal. Another part, towards the South, [marched into] the borders of Risennia [Riazan\footnote{See Hautala 2016 p. 190.}], which is another Duchy of the Ruthenians [Russians], which they never fought before. The third part, however, were standing against the River Denh [Don] near the citadel of Orgenhusin\footnote{Other manuscript: Ovcheruch; according to Bendefy 1937, Voronezh, but Sinor 2002 suggests a Russian German town.}. They were however waiting for this, which the Russians, Hungarians and Bulgarians themselves, who had fled before them, related to us in person: that, when land, rivers and marshes freeze in the coming winter, all of Russia would be as easy to ravage to their whole multitude as the whole land of the Ruthenians.
+
+Likewise, however, do understand all these things, [namely] that this chief Gurgutam, who first started the war, has passed away. Now however his son Chayn [=``Khan''\footnote{According to Bendefy 1937, probably Ogedei.}] reigns instead of him, and resides in the great city of Hornach whose reign his father obtained beforehand. His residence is of this sort: he has a palace so large, that a thousand horsemen enter by one door, and bowing to him, the horsemen leave without ever unseating themselves. This leader has acquired a huge couch, supported by tall golden columns, a couch - I say - golden and most preciously covered, in which he sits glorious and glorified, wrapped with precious garments\footnote{Dienes 1937 points out that William of Rubruck also described Batu Khan's throne as a magnificent bed, ``guilt all over, with three staires to ascend thereunto''.}. Now the doors of this palace are fully golden, through which his horsemen transit unharmed and immune. Foreign envoys however, if they go through the door on horse, or touch the threshold of the doors with their feet, are put to the sword on the spot\footnote{According to Dienes 1937, this custom is also mentioned by Rubruck, Carpine, and Marco Polo.}; but it is proper to any foreigner to enter with utmost reverence.
+
+Thus residing in such pomp, he sent the army through various lands, namely beyond the seas, as we believe, and how much he did there, even you heard. Another copious army however, he sent next to the sea upon all Cumans, who had fled to the land of Hungary\footnote{In 1227, a part of the Cumans had fled the Mongols and arrived in what is now Romania, at the time a Hungarian possession; the Hungarian king granted them asylum (see Sinor 2002, p. 1166). This fact is also alluded to in the Khan's ultimatum below.}. The third part besieges the whole of Russia, as I said.
+
+
+\subsubsection{Chapter 3}
+
+In truth, to let you know about [things of] war, it is said that they shoot longer arrows than is usual for other nations. And in the first bout of war, as it is said, they do not [so much] shoot arrows, but almost seem to rain down arrows [upon their enemies]. They are said to be less apt at warfare by sword and lance. They do however arrange their troops in such a way, that one Tartar commands to ten men, and again one centurion to a hundred men. They do this so that, due to this cunning method, no incoming spies may hide in any way among them, and if perchance their number might diminish due to war, it may be replenished immediately, and the people that they gathered from among various may not commit any infidelity, whom they assembled from diverse tongues and nations.
+
+Of all the realms they conquer, the kings and leaders and magnates from which there is [any] expectation that they might ever make resistance, they kill immediately.
+
+The soldiers, however, and the countrymen strong at fighting, then send before themselves in arms to fight, against their will. Other countrymen less apt to fight, however, they leave to cultivate the land, and the wives, daughters and female relatives of all those destined for impressment as well as those destined for death, they divide among those left to till the land, assigning ten or more to each one, and impose upon them that henceforth they be named as Tartars. 
+
+Now the soldiers compelled to fight, if they fight well and win - [they obtain] little gratitude; if however they die in the fight, no care! If however they retreat in the fight, they are killed immediately by the Tartars; so that the fighter would rather die in the fight than be put to the Tartars' sword. They fight therefore more bravely, not so that they may live in the future, but so that they may die faster. They do not fight against defended cities, but first they lay waste to the land and prey upon the people, and the people of this same land at the same time they assemble and compel to fight and attack their own cities. Of the multitude of their own army however I will write nothing to you, save that of all the kingdoms it conquers, it forces the soldiers apt at combat to fight before it [i.e. at the front].
+
+
+
+\subsubsection{Chapter 4}
+
+It is related by many as a sure thing, and the Duke of Suzdal announces through me in his own words to the king of Hungary, that day and night the Tartars hold council about how to defeat and conquer the realm of Christian Hungary [i.e. European Hungary]. Indeed, they are said to have the design of coming and attacking Rome, and beyond Rome.
+
+Hence, he [The Mongol Khan\footnote{Bendefy suggests Batu Khan, but Howorth ("History of the Mongols, from the 9th to the 19th Century"), citing Wolff, prefers a son of Jochi called Singkur, also known as Suntai.}] sent messengers to the king of Hungary, who, coming through the land of Suzdal, were captured by the Duke of Suzdal, and this Duke took the letters sent to the king from them; and these very messengers I saw, together with the associates appointed to me; these same letters, given to me by the Duke of Suzdal, I carried to the king of Hungary. These letters however are written in pagan letters, but in Tartar language; for which reason the king found many who could read them, but no one who could understand them. We however, as we were transiting through the Cumanian [land], found a pagan who interpreted them for us. Here is this interpretation: 
+
+\begin{quote}
+``I, Chayn [i.e. Khan], messenger of the celestial King, to whom he gave power upon the Earth to elevate those who submit to me, and to humble those who oppose [me], I wonder at you, king of Hungary, that although I have already sent you envoys for the thirtieth time\footnote{Sinor 2002 and other authors suggest the number ``thirty'' is an error, presumably for "three".}, why do you not send any of them back to me; neither do you send your own messengers, or [any] letters. I know that you are a rich and mighty king, that you have many soldiers under you, and that you govern, alone, a great realm. Thus, you will not easily submit yourself to me of your own will. Yet it would be better and safer for you if you submitted yourself to me willingly! I gathered furthermore that you hold the Cumans - my servants - under your protection, Therefore I demand that you cease to hold them with you, and that you do not have me as an adversary for their sake. It is easier indeed for them to escape than for you, since they - marching without houses or tents - are able to escape if need be. You however, dwelling in houses, having castles and cities, how will you flee from my hand?''
+\end{quote}
+
+
+[One manuscript of the letter ends here, after a short paragraph describing how the letter was sent by the King of Hungary to various authorities.]
+
+
+
+\subsubsection{Chapter 5}
+
+Yet let me not omit these things. When I was still at the Roman curia\footnote{That is, after his first journey to Magna Hungaria, and before the one related in the present letter; see Bendefy 1937, Section 3: "De Iuliani itinere altero."}, four of my brothers [i.e. other friars] preceded me in Greater Hungary [Volga Hungary], who, as they were transiting through the land of Suzdal, encountered in this country certain pagan [Volga] Hungarians fleeing from the face of the Tartars, who gladly accepted the Catholic faith, while coming towards Christian [European] Hungary. Upon hearing this, the said Duke of Suzdal, indignant, called for the brothers and prohibited them from preaching the Roman law\footnote{Presumably: Catholic Christianity, as opposed to the Orthodox Christianity of the Russian rulers.} to Hungarians, and because of this expelled these brothers from his land; though without any harm, and they, unwilling to go back and [so] easily lose the journey [already] made, deviated to the state of Risennia [Riazan], [to see] if they could find a way to transit to Greater Hungary, or the Morducans [Mordvins], or the Tartars themselves. Having left behind two of the brothers, led by interpreters around the time of the celebration of the feast of Peter and Paul, they came upon one of the Morducan princes, who having left the same day in which they had come, with all his people and family, as we said above, submitted himself to the Tartars\footnote{See the end of Chapter 1.}. From there on, what happened to these two brothers, whether they died or were delivered by this prince to the Tartars, is utterly ignored. The two brothers left behind, wondering about [the others'] delay, around the next feast of Saint Michael sent an interpreter, desirous to gain some certainty about their lives; whom the invading Morducans killed. I however, and my associates, seeing the land occupied by the Tartars and observing the regions [militarily] fortified, with no hope of any profit [\emph{nullum fructum fructificandi}], returned towards Hungary. And it can be said that we marched through many torments and brigands, yet, by prayers to the holy Church and the support of [our] merits, we arrived at our brothers and cloister safe and unharmed.
+
+Furthermore, when such a scourge of God is coming and approaching towards the sons of the Church, bride of Christ; what is to be decided upon these [things] and what is to be done, may the discretion of Your Holiness deign to provide for it with [due] care.
+
+ 
+\subsubsection{Chapter 6}
+
+Besides these, so that nothing remain omitted, I signify to your Paternity, that one cleric from among the Russians, as he was writing back to us about certain stories from the book of Judges, said that the Tartars are Madianites, who, together  with the Cethym, fought against the sons of Israel, and were defeated by Gideon as it is stated in the Book of Judges \footnote{Judges, 6-8. According to Jackson 2014 (p. 147), the proximate source for this identification is in fact the apocalyptic Sermo of Pseudo-Methodius}. In their flight from thence, these Madianites settled near a river called Tartar, and hence are called Tartars. [One of the manuscripts ends here.]. The Tartars also claim to have such a multitude of warriors, that it can be divided into forty parts such that no power is found on Earth that could resist one of these parts. Similarly it is said that they have with themselves two hundred and sixty thousand slaves, who are not of their own nation, and one hundred and thirty five thousands of their own nation, of the most battle-hardened. Similarly it is said that their women are as bellicose as themselves, and throw arrows and ambush horses just like men, and bolder than the men in the conflicts of war. For, while men may sometimes turn their backs, they [women] never take flight in any way, but expose themselves to every danger.
+
+Here ends the letter on the life, religion and origin of the Tartars.
