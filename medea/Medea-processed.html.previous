@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8"/>
     <title>Tufte CSS</title>
-    <link rel="stylesheet" href="tufte.css"/>
+    <link rel="stylesheet" href="tufte-css-original.css"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
 
@@ -11,17 +11,28 @@
     <article>
     <section>
     
-<h1 id="l.-annaei-senecae">L. ANNAEI SENECAE</h1>
-<h1 id="medea">MEDEA</h1>
-<h1 id="cum-notis-minimalis-ad-intelligendam-sufficientibus">CUM NOTIS
-MINIMALIS AD INTELLIGENDAM SUFFICIENTIBUS</h1>
-<p><em>Medea, magica egregia, magno amore incitatā, iuvit Iasonem atque
-comites eius Argonautas in questu Velli Aurei. Post Peliam regem
-interfectum, ad Corinthem fugit cum Iasone. Creo, rex Corinthis,
-admiratur Iasonem, Medeam autem contemnit. Itaque iussit Iasoni ut ducat
-filiam suam Creusam in matrimonium, Medeamque repudiet, cui Iason
-assensit.</em></p>
-<h2 id="actus-primus">ACTUS PRIMUS</h2>
+        <h1 id="title"><small>L. ANNAEI SENECAE</small><br/>
+        MEDEA</h1>
+        <p class="subtitle">CUM
+ANNOTATIONIBUS MINIMALIS AD INTELLIGENDUM SUFFICIENTIBUS</p>
+<br/><br/>
+<!--<h2
+id="cum-annotationibus-minimalis-ad-intelligendum-sufficientibus">CUM
+ANNOTATIONIBUS MINIMALIS AD INTELLIGENDUM SUFFICIENTIBUS</h2>-->
+
+<p><em>SUMMARIUM PRIORUM RERUM</em><br/>
+
+<em>Medea, magica egregia, magno amore incitata, iuvit Iasonem atque comites
+    eius Argonautas in questu Velli Aurei, seque iunxit Iasoni in matrimonium.
+    Deinde, postquam Medea causavit mortem regis Peliae, fugit ad Corinthem cum
+Iasone. Creo, rex Corinthis, admiratur Iasonem, Medeam autem contemnit. Itaque
+iussit Iasoni ut ducat filiam suam Creusam in matrimonium, Medeamque repudiet,
+cui Iason assensit.
+<label for="sn-in-his-later-books" class="margin-toggle sidenote-number">
+</label><input type="checkbox" id="sn-in-his-later-books" class="margin-toggle"/><span class="sidenote"><em>Beautiful Evidence</em></span>  
+</em></p>
+
+<br/><br/><h3 id="actus-primus">ACTUS PRIMUS</h3>
 <p><em>(Medea, se desertam videns, deos invocat et ultionem sumendam
 pronuntiat.)</em></p>
 <p><em>Medea</em><br />
@@ -110,8 +121,8 @@ repudia thalamis<label for="fn1" class="margin-toggle sidenote-number"></label><
 ?<br />
 hōc quo secuta es. rumpe iam segnes moras:<br />
 quae scelere parta est, scelere linquenda est domus.</p>
-<p>(<em>Chorus mulierum Corinthiarum praecinit epithalamium (carmen
-nuptiale) Iasonis et Creusae.)</em></p>
+<p>(<em>Chorus mulierum Corinthiarum praecinit carmen nuptiale Iasonis
+et Creusae.)</em></p>
 <p><em>Chorus</em><br />
 Ad regum thalamos numine prospero<br />
 qui caelum superi quique regunt fretum<br />
@@ -224,7 +235,7 @@ solvat turba iocos. tacitis eat illa tenebris,<br />
 si qua<label for="fn1" class="margin-toggle sidenote-number"></label><input type="checkbox" id="fn1" class="margin-toggle"/><span class="sidenote">aliqua (fugitiva) - allusio ad Medeam </span>  
  peregrino nubit fugitiva
 marito.</p>
-<h2 id="actus-secundus">ACTUS SECUNDUS</h2>
+<br/><br/><h3 id="actus-secundus">ACTUS SECUNDUS</h3>
 <p><em>(Audito hymenaeo, Medea furit; nutrix conatur eam
 sedare.)</em></p>
 <p><em>Medea</em><br />
@@ -702,7 +713,7 @@ laxet et ingens pateat tellus<br />
 Tethysque novos detegat orbes<br />
 nec sit terris ultima Thule<label for="fn1" class="margin-toggle sidenote-number"></label><input type="checkbox" id="fn1" class="margin-toggle"/><span class="sidenote">insula extremissima septentrionalis </span> 
  .</p>
-<h2 id="actus-tertius">ACTUS TERTIUS</h2>
+<br/><br/><h3 id="actus-tertius">ACTUS TERTIUS</h3>
 <p><em>(Medea vindictam annuntiat. Nutrix urget eam ad fugam)</em></p>
 <p><em>Nutrix</em><br />
 Alumna, celerem quo rapis tectis<label for="fn1" class="margin-toggle sidenote-number"></label><input type="checkbox" id="fn1" class="margin-toggle"/><span class="sidenote">i.e. ab domo </span> 
@@ -1247,7 +1258,7 @@ arsit angustas vagus inter undas.<br />
 iam satis, divi, mare vindicastis ;<br />
 parcite iusso<label for="fn1" class="margin-toggle sidenote-number"></label><input type="checkbox" id="fn1" class="margin-toggle"/><span class="sidenote">i.e. Iasoni, qui iussus est vellem aureum quaerire </span>  
 .</p>
-<h2 id="actus-quartus">ACTUS QUARTUS</h2>
+<br/><br/><h3 id="actus-quartus">ACTUS QUARTUS</h3>
 <p><em>(Nutrix narrat quid Medea agat, quidque paret.)</em></p>
 <p><em>Nutrix</em><br />
 Pavet animus, horret, magna pernicies adest.<br />
@@ -1587,7 +1598,7 @@ nox condat alma lucem,<br />
 mergat diem timendum<br />
 dux noctis Hesperus<label for="fn1" class="margin-toggle sidenote-number"></label><input type="checkbox" id="fn1" class="margin-toggle"/><span class="sidenote">stella vesperis </span>  
 .</p>
-<h2 id="actus-quintus">ACTUS QUINTUS</h2>
+<br/><br/><h3 id="actus-quintus">ACTUS QUINTUS</h3>
 <p><em>(Nuntius narrat fatum domūs Creonis)</em></p>
 <p><em>Nuntius</em><br />
 Periere cuncta ! concidit regni status !<br />

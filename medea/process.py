@@ -1,7 +1,7 @@
 import re
 
 def dashrepl(matchobj):
-    return '<label for="fn1" class="margin-toggle sidenote-number"></label><input type="checkbox" id="fn1" class="margin-toggle"/><span class="sidenote">'+notes_dict[matchobj.group(1)]+'</span>'
+    return '<label for="'+matchobj.group(1)+'" class="margin-toggle sidenote-number"></label><input type="checkbox" id="'+matchobj.group(1)+'" class="margin-toggle"/><span class="sidenote">'+notes_dict[matchobj.group(1)]+'</span>'
     
 with open('medea.html') as file:
        lines = [line for line in file]
@@ -31,7 +31,7 @@ ll2 = ll.replace('class="footnote-ref"', '')
 ll3 = re.sub(r'id="fnref.*?"', '', ll2)
 ll4 = re.sub(r'role="doc-noteref"><sup>.*?</sup></a>', '', ll3)
 ll5 = re.sub(r'<section id="footnotes".*','', ll4)
-ll6 = ll5.replace('<a','').replace('<h2', '<br/><br/><h2')
+ll6 = ll5.replace('<a','').replace('<h2', '<br/><br/><h2').replace('SUMMARIUM', '<br/><br/>SUMMARIUM')
 
 
 ll7 = re.sub('href="#(.*?)"', dashrepl, ll6).replace(' <label', '<label').replace('@@<label', '<label').split('@@')
@@ -41,7 +41,7 @@ header = '''<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8"/>
-    <title>Tufte CSS</title>
+    <title>Medea</title>
     <link rel="stylesheet" href="tufte.css"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
