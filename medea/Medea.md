@@ -1,8 +1,8 @@
-# L. ANNAEI SENECAE
+# zzL. ANNAEI SENECAE
 
 # MEDEA 
 
-## CUM ANNOTATIONIBUS MINIMIS AD INTELLIGENDUM SUFFICIENTIBUS
+## CUM ANNOTATIONIBUS MINIMIS AD INTELLIGENDUM SUFFICIENTIBUSzz
 
 SUMMARIUM PRIORUM RERUM  
 *Medea, magica egregia, magno amore incitata, iuvit Iasonem atque comites eius Argonautas in questu Velli Aurei, seque iunxit Iasoni in matrimonium. Deinde, postquam Medea causavit mortem regis Peliae, fugit ad Corinthem cum Iasone. Creo, rex Corinthis, admiratur Iasonem, Medeam autem contemnit. Itaque iussit Iasoni ut ducat filiam suam Creusam in matrimonium, Medeamque repudiet, cui Iason assensit.*
@@ -153,7 +153,7 @@ partes in omnes ; unde me ulcisci queam ?
 utinam esset illi frater[^69] \! est coniunx ; in hanc  
 ferrum exigatur. hoc meis satis est malis ?  
 si quod Pelasgae[^70], si quod urbes barbarae  
-novere facinus quod tuae ignorent manus,  
+novere facinus quod tuae ignorent manūs,  
 nunc est parandum. scelera te hortentur tua  
 et cuncta redeant \- inclitum regni decus  
 raptum et nefandae virginis parvus comes[^71]  
@@ -299,9 +299,9 @@ Auditus a te Pelia supplicium tulit ?
 sed fare, causae detur egregiae locus.
 
 *Medea*  
-Difficile quam sit animum ab ira flectere  
+Difficile quam sit animum ab irā flectere  
 iam concitatum, quamque regale hoc putet,  
-sceptris superbas quisquis admovit manus,  
+sceptris superbas quisquis admovit manūs,  
 qua coepit, ire, regiā didici meā[^100].  
 quamvis enim sim clade miseranda obruta,  
 expulsa supplex sola deserta, undique  
@@ -560,7 +560,7 @@ adiuta flatu, possit imitari impetum
 irasque nostras[^208] ; sternam et evertam omnia.  
 Timuit[^209] Creontem ac bella Thessalici ducis[^210] ?  
 amor timere neminem verus potest.  
-sed cesserit coactus et dederit manus ;  
+sed cesserit coactus et dederit manūs ;  
 adire certe et coniugem extremo alloqui  
 sermone potuit[^211]. hoc quoque extimuit ferox.  
 laxare certe tempus immitis fugae  
@@ -620,7 +620,7 @@ quo me remittis ? exuli exilium imperas
 nec das[^227]. eatur. regius iussit gener ;  
 nihil recuso. dira supplicia ingere ;  
 merui. cruentis paelicem[^228] poenis premat  
-regalis ira, vinculis oneret manus  
+regalis ira, vinculis oneret manūs  
 clausamque saxo[^229] noctis aeternae obruat ;  
 minora meritis[^230] patiar.  
 Ingratum caput,  
@@ -741,7 +741,7 @@ Acastus instat.
 
 *Medea*  
 Propior est hostis Creo ;  
-utrumque profuge. non ut in socerum manus  
+utrumque profuge. non ut in socerum manūs  
 armes, nec ut te caede cognatā inquines[^256],  
 Medea cogit[^257] ; innocens mecum fuge.
 
@@ -1215,7 +1215,7 @@ amas[^430] adhuc, furiose, si satis est tibi
 caelebs[^431] Iason. quaere poenarum genus  
 haut[^432] usitatum, iamque sic temet para :  
 fas omne cedat, abeat expulsus pudor ;  
-vindicta levis est quam ferunt purae manus[^433].  
+vindicta levis est quam ferunt purae manūs[^433].  
 incumbe in iras, teque languentem[^434] excita,  
 penitusque veteres pectore ex imo impetūs  
 violentus hauri[^435]. quidquid admissum[^436] est adhuc,  
@@ -1386,7 +1386,7 @@ testare nullos esse, quā veheris, deos.
 
 [^6]:  Hyperion, aut Sol filius eius
 
-[^7]:  \= Hecate triformis, praebens conscium iubar \[i.e. facies lucens, fulgens\] tacitis sacris
+[^7]:  \= Hecate triformis, praebens conscium iubar \[i.e. faciem lucentem, fulgentem\] tacitis sacris
 
 [^8]:  Pluto
 
@@ -1508,7 +1508,7 @@ testare nullos esse, quā veheris, deos.
 
 [^67]:  carmen nuptiale
 
-[^68]:  i.e. creditne meam potestam ad malum faciendum extinctam esse?
+[^68]:  i.e. creditne meam potestam ad malum faciendum exstinctam esse?
 
 [^69]:  i.e. quem possem necare, ut necavi fratrem meum
 
@@ -1570,9 +1570,9 @@ testare nullos esse, quā veheris, deos.
 
 [^98]:  i.e. ille qui me vexit hic (i.e. Iason), abeat mecum
 
-[^99]:  i.e. preces tuae venerunt nimium sero, quia constitutum (i.e. sententiam) meum iam decretum est (neque posset mutari)
+[^99]:  i.e. preces tuae veniunt nimium sero, quia decretum meum iam constitutum est (neque posset mutari)
 
-[^100]:  i.e. in palatio regio meo didici, quantum difficile est avertare iram iam concitatam, atque quantum ille qui cepit sceptrum manibus superbis (i.e. rex) putat peragere quae coepit regale esse
+[^100]:  \= \[in\] regiā meā, didici quam difficile sit flectere animum iam concitatum ab irā, quamque quisquis admovit manūs superbas sceptris \[i.e. rex\] hoc putet regale \[esse\], quā coepit, ire \[i.e. peragire coepta\].
 
 [^101]:  resplendui, eminui
 
@@ -1886,7 +1886,7 @@ testare nullos esse, quā veheris, deos.
 
 [^256]:  polluas, foedes
 
-[^257]:  \= Medea non cogit ut armes manus in \[i.e. contra\] socerum \[Creonem\], nec ut te inquines caede cognatā \[i.e. Acasti, cognati tui\]
+[^257]:  \= Medea non cogit ut armes manūs in \[i.e. contra\] socerum \[Creonem\], nec ut te inquines caede cognatā \[i.e. Acasti, cognati tui\]
 
 [^258]:  sc. "ut hostes"
 
@@ -2238,7 +2238,7 @@ testare nullos esse, quā veheris, deos.
 
 [^432]:  haud
 
-[^433]:  *purae manus*: cum Creo inimicus atque Creusa paelex putat, mors eorum non iniusta videtur ei
+[^433]:  *purae manūs*: cum Creo inimicus atque Creusa paelex putat, mors eorum non iniusta videtur ei
 
 [^434]:  morantem, cunctantem
 

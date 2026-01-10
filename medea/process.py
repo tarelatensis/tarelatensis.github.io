@@ -33,8 +33,12 @@ ll4 = re.sub(r'role="doc-noteref"><sup>.*?</sup></a>', '', ll3)
 ll5 = re.sub(r'<section id="footnotes".*','', ll4)
 ll6 = ll5.replace('<a','').replace('<h2', '<br/><br/><h2').replace('SUMMARIUM', '<br/><br/>SUMMARIUM')
 
+ll6 = ll6.replace('id="zz','id="').replace('zz"', '"')
+ll6 = re.sub(r'zz.*?zz', 'zzzz', ll6)
+ll6 = ll6.replace('zzzz','<small>L. ANNAEI SENECAE</small><br/>MEDEA</h1><p class="subtitle">CUM ANNOTATIONIBUS MINIMIS AD INTELLIGENDUM SUFFICIENTIBUS</p><br/>')
 
 ll7 = re.sub('href="#(.*?)"', dashrepl, ll6).replace(' <label', '<label').replace('@@<label', '<label').split('@@')
+
 
 
 header = '''<!DOCTYPE html>
