@@ -29,7 +29,7 @@ notes_dict = dict(zip(keyz, valz))
 ll = "".join(lines[:cpt]).replace('\n', '@@')
 ll2 = ll.replace('class="footnote-ref"', '')
 ll3 = re.sub(r'id="fnref.*?"', '', ll2)
-ll4 = re.sub(r'role="doc-noteref"><sup>.*?</sup></a>', '', ll3)
+ll4 = re.sub(r'role="doc-noteref"><sup>.*?</sup></a>', '', ll3).replace('<a@@href', '<a href')
 ll5 = re.sub(r'<section id="footnotes".*','', ll4)
 #ll6 = ll5.replace('<a','').replace('<h2', '<br/><br/><h2').replace('SUMMARIUM', '<br/><br/>SUMMARIUM')
 ll6 = ll5.replace('<h2', '<br/><br/><h2').replace('SUMMARIUM', '<br/><br/>SUMMARIUM')
@@ -37,7 +37,7 @@ ll6 = ll5.replace('<h2', '<br/><br/><h2').replace('SUMMARIUM', '<br/><br/>SUMMAR
 ll6 = re.sub(r'<p>zz.*?zz</p>', 'zzzz', ll6)
 ll6 = ll6.replace('zzzz','<figure><center><h1><small>L. ANNAEI SENECAE</small><br/>MEDEA</h1><p class="subtitle">CUM NOTIS MINIMIS AD INTELLIGENDUM SUFFICIENTIBUS</p></center></figure><br/>').replace('<h3', '<br/><h3')
 
-ll7 = re.sub('href="#(.*?)"', dashrepl, ll6).replace(' <label', '<label').replace('@@<label', '<label').split('@@')
+ll7 = re.sub('<a href="#(.*?)"', dashrepl, ll6).replace(' <label', '<label').replace('@@<label', '<label').split('@@')
 
 
 
