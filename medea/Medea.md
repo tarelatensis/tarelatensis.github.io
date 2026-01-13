@@ -606,7 +606,7 @@ Iustitia, numen invoco ac testor tuum :
 nati patrem vicere. quin ipsam[^218] quoque,  
 etsi ferox est corde nec patiens iugi,  
 consulere[^219] natis malle quam thalamis reor.  
-constituit[^220] animus precibus iratam aggredi.  
+constituit animus precibus iratam aggredi[^220].  
 atque ecce, viso memet[^221], exiluit, furit,  
 fert odia prae se; totus in vultu est dolor.
 
@@ -1319,7 +1319,7 @@ quid nunc moraris, anime ? quid dubitas potens ?
 iam cecidit ira. paenitet facti, pudet.  
 quid, misera, feci ? misera ? paeniteat licet,  
 feci[^470]. voluptas magna me invitam subit,  
-et ecce crescit. \[*aspicit Iasonem.*\] derat hoc unum mihi,  
+et ecce crescit. \[*aspicit Iasonem*\] derat hoc unum mihi,  
 spectator iste[^471]. nil adhuc facti reor ;  
 quidquid sine isto fecimus sceleris perit[^472].
 
@@ -1735,7 +1735,7 @@ testare nullos esse, quā veheris, deos.
 
 [^177]:  (accusativus)
 
-[^178]:  \=cum Orpheus Thracius, resonans Pieriā citharā, paene coegit Sirena, solitam retinere rates, sequi \[ratem suum, i.e. Argo\]
+[^178]:  \= cum Orpheus Thracius, resonans Pieriā citharā, paene coegit Sirena, solitam retinere rates, sequi \[ratem suum, i.e. Argo\]
 
 [^179]:  \= \[nova\] Argo, compacta Palladiā \[i.e. Minervae\] manu, ferensque remos regum, non \[iam\] quaeritur
 
@@ -1771,7 +1771,7 @@ testare nullos esse, quā veheris, deos.
 
 [^195]:  i.e. faciet aliquid maius (peius) quam umquam fecit 
 
-[^196]:  \=si quaeris quem modum statuas \[i.e. tribuas, des\] odio
+[^196]:  \= si quaeris quem modum statuas \[i.e. tribuas, des\] odio
 
 [^197]:  i.e. da odio eundem modum quem dedisti amori (*imitare*: imperativus)
 
@@ -1789,7 +1789,7 @@ testare nullos esse, quā veheris, deos.
 
 [^204]:  accusativus
 
-[^205]:  \=quaeve Aetna, premens anhelantem Titana \[i.e. Enceladon aut Typhoeus, quem Dei sub Aetnam sepeliverunt\]
+[^205]:  \= quaeve Aetna, premens anhelantem Titana \[i.e. Enceladon aut Typhoeus, quem Dei sub Aetnam sepeliverunt\]
 
 [^206]:  valde ventosum
 
@@ -1811,7 +1811,7 @@ testare nullos esse, quā veheris, deos.
 
 [^215]:  pereant
 
-[^216]:  i.e. sortem pariter malam, noxiam est cum saevit atque cum parcit
+[^216]:  i.e. sors est pariter mala (noxia) cum saevit atque cum parcit
 
 [^217]:  i.e. mihi
 
@@ -1819,19 +1819,19 @@ testare nullos esse, quā veheris, deos.
 
 [^219]:  considere, in mente volvere
 
-[^220]:  decrevit
+[^220]:  i.e. animus meus decrevit ut irem ad Medeam iratam, precandi causā
 
 [^221]:  i.e. cum me vidit
 
-[^222]:  \= quam \[i.e. ego discedens at exiens\] cogis profugere \[e\] penatibus tuis
+[^222]:  \= quam \[i.e. me, Medeam\] \[tu\] cogis profugere \[e\] penatibus tuis
 
 [^223]:  sc. "me"
 
 [^224]:  agmen
 
-[^225]:  i.e. te, Iason
+[^225]:  i.e. te, Iasonem
 
-[^226]:  scopulas quae claudebant Bosphorum
+[^226]:  scopulos mobiles quae claudebant Bosphorum
 
 [^227]:  sc. "locum quo irem"
 
@@ -1843,7 +1843,7 @@ testare nullos esse, quā veheris, deos.
 
 [^231]:  i.e. memento
 
-[^232]:  *tauri, pecus, miles*: hostes quem Iason superavit propter auxilium Medeae
+[^232]:  *tauri, pecus, miles*: hostes quos Iason superavit propter auxilium Medeae
 
 [^233]:  i.e. arma hostis subito apparentis
 
@@ -1861,11 +1861,11 @@ testare nullos esse, quā veheris, deos.
 
 [^240]:  domum certam
 
-[^241]:  coniugii (ab *coniujgium*, non *coniux*)
+[^241]:  coniugii (ab *coniugium*, non *coniux*)
 
 [^242]:  i.e. quas Scythae ab Indiā auferrunt
 
-[^243]:  i.e. quas, quia domus vix potest tenere thesaurum refertum \[i.e. vellum aureum\], ponimus super arbora nemoris
+[^243]:  i.e. quas, quia domus vix potest tenere thesaurum refertum \[i.e. vellus aureum\], ponimus super arbora nemoris
 
 [^244]:  i.e. cum me suades hoc (i.e. abire), Creusae (uxori novae tuae) prodes
 
@@ -1875,9 +1875,9 @@ testare nullos esse, quā veheris, deos.
 
 [^247]:  i.e. vita quae pudet accepisse (sceleribus causā) molesta est
 
-[^248]:  i.e. si vita pudet, relinque eam\!
+[^248]:  i.e. si vitae te pudet, relinque eam\!
 
-[^249]:  (imperativus passivus; activus: *placo*)
+[^249]:  (imperativus passivus)
 
 [^250]:  i.e. placata sis, pro natos tuos
 
