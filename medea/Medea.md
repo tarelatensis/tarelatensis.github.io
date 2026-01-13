@@ -1,11 +1,15 @@
-# zzL. ANNAEI SENECAE
+zz
 
-# MEDEA 
+# L. ANNAEI SENECAE
 
-## CUM ANNOTATIONIBUS MINIMIS AD INTELLIGENDUM SUFFICIENTIBUSzz
+# MEDEA
+
+## CUM NOTIS MINIMIS AD INTELLIGENDUM SUFFICIENTIBUSzz
+
+zz
 
 SUMMARIUM PRIORUM RERUM  
-*Medea, magica egregia, magno amore incitata, iuvit Iasonem atque comites eius Argonautas in questu Velli Aurei, seque iunxit Iasoni in matrimonium. Deinde, postquam Medea causavit mortem regis Peliae, fugit ad Corinthem cum Iasone. Creo, rex Corinthis, admiratur Iasonem, Medeam autem contemnit. Itaque iussit Iasoni ut ducat filiam suam Creusam in matrimonium, Medeamque repudiet, cui Iason assensit.*
+*Medea, magica insignis, magno amore incitata, iuvit Iasonem atque comites eius Argonautas in questu Velli Aurei, seque iunxit Iasoni in matrimonium. Deinde, postquam Medea causavit mortem regis Peliae, fugit ad Corinthem cum Iasone. Creo, rex Corinthis, admiratur Iasonem, Medeam autem contemnit. Itaque iussit Iasoni ut ducat filiam suam Creusam in matrimonium, Medeamque repudiet, cui Iason assensit.*
 
 ### ACTUS PRIMUS
 
@@ -2238,7 +2242,7 @@ testare nullos esse, quā veheris, deos.
 
 [^432]:  haud
 
-[^433]:  *purae manūs*: cum Creo inimicus atque Creusa paelex putat, mors eorum non iniusta videtur ei
+[^433]:  *purae manūs*: cum Medea putat Creonem inimicum atque Creusam paelicem esse, mors eorum non iniusta videtur ei
 
 [^434]:  morantem, cunctantem
 
@@ -2252,7 +2256,7 @@ testare nullos esse, quā veheris, deos.
 
 [^439]:  praebui \[Iasoni, ut eum adiuverem\]
 
-[^440]:  inexpertes
+[^440]:  Inexpertes, noviciae
 
 [^441]:  sc. "fratris"
 
@@ -2288,9 +2292,9 @@ testare nullos esse, quā veheris, deos.
 
 [^457]:  *superbae Tantalidos*: Niobe, filia Tantali, quae quatuordecim natos peperit, omnesque amisit cum ei interfectus sunt ab Appollone et Dianā, ad superbam eius puniendam.
 
-[^458]:  ego peperi nimis paucos natios in quos ultionem capere possem; sed peperi duos, quod est satis ad ultionem patris et fratris
+[^458]:  i.e. ego peperi nimis paucos natios in quos ultionem capere possem; sed peperi duos, quod est satis ad ultionem patris et fratris
 
-[^459]:  nunc per phantasiam putat se videre Furias, deas ultionis
+[^459]:  nunc, per phantasiam, Medea putat se videre Furias, deas ultionis
 
 [^460]:  Furiae gerebant angues ut flagella viva, atque trabes (i.e. faces)
 
