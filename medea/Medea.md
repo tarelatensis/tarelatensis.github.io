@@ -8,6 +8,9 @@ zz
 
 zz
 
+[Thomas Arelatensis](https://tarelatensis.github.io/), editor  
+[Introductio](https://tarelatensis.github.io/medea/IntroductiontoMedea.html) (Anglice)
+
 SUMMARIUM PRIORUM RERUM  
 *Medea, magica insignis, magno amore incitata, iuvit Iasonem atque comites eius Argonautas in questu Velli Aurei, seque iunxit Iasoni in matrimonium. Deinde, postquam Medea causavit mortem regis Peliae, fugit ad Corinthem cum Iasone. Creo, rex Corinthis, admiratur Iasonem, Medeam autem contemnit. Itaque iussit Iasoni ut ducat filiam suam Creusam in matrimonium, Medeamque repudiet, cui Iason assensit.*
 
@@ -1184,7 +1187,7 @@ nata atque genitor cinere permixto iacent.
 Quā fraude capti ?
 
 *Nuntius*  
-Qua solent reges capi \-   
+Quā solent reges capi \-   
 donis.
 
 *Chorus*  
@@ -2226,7 +2229,7 @@ testare nullos esse, quā veheris, deos.
 
 [^424]:  \= et, superba, quatiens caput feroci motu, minatur ultro \[i.e. etiam\] regi
 
-[^425]:  \= quando efferet nefanda Colchis \[i.e. Medea\] gressum \[ex\] arvis Pelasgis \[i.e. Graecis\]
+[^425]:  \= quando efferet nefanda Colchis \[i.e. Medea\] gressum \[ex\] arvis Pelasgis \[i.e. Graecis\] ?
 
 [^426]:  stella vesperis
 
