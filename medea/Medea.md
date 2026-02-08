@@ -8,7 +8,7 @@ zz
 
 zz
 
-[Thomas Arelatensis](https://tarelatensis.github.io/), editor  
+[Thomas Arelatensis](https://tarelatensis.github.io/), annotator  
 [Introductio](https://tarelatensis.github.io/medea/IntroductiontoMedea.html) (Anglice)
 
 SUMMARIUM PRIORUM RERUM  
@@ -54,141 +54,141 @@ da, da per auras curribus patriis vehi,
 committe habenas, genitor, et flagrantibus  
 ignifera loris tribue moderari iuga:  
 gemino Corinthos litore opponens moras[^20]  
-cremata flammis maria committat duo.  
+cremata flammis maria committat[^21] duo.  
 hoc restat unum, pronubam thalamo feram  
-ut ipsa pinum[^21], postque sacrificas preces,  
-caedam dicatis victimas altaribus[^22].  
+ut ipsa pinum[^22], postque sacrificas preces,  
+caedam dicatis victimas altaribus[^23].  
 per viscera ipsa quaere supplicio viam,  
 si vivis, anime, si quid antiqui tibi  
-remanet vigoris; pelle femineos metus  
-et inhospitalem Caucasum mente indue,  
-quodcumque vidit Pontus aut Phasis[^23] nefas,  
-videbit Isthmos. effera ignota horrida,  
+remanet vigoris; pelle femineos metūs  
+et inhospitalem Caucasum mente indue;  
+quodcumque vidit Pontus aut Phasis[^24] nefas,  
+videbit Isthmos. effera ignota horrida  
 tremenda caelo pariter ac terris mala  
 mens intus agitat: vulnera et caedem et vagum  
 funus per artus. levia memoravi nimis:  
 haec virgo feci; gravior exurgat dolor:  
-maiora iam me scelera post partus[^24] decent.  
+maiora iam me scelera post partus[^25] decent.  
 accingere irā, teque in exitium para  
 furore toto. paria narrentur tua  
-repudia thalamis[^25]: quo virum linques modo[^26]?  
+repudia thalamis[^26]: quo virum linques modo[^27]?  
 hōc quo secuta es. rumpe iam segnes moras:  
 quae scelere parta est, scelere linquenda est domus.
 
 (*Chorus mulierum Corinthiarum praecinit carmen nuptiale Iasonis et Creusae.)*
 
 *Chorus*  
-Ad regum thalamos numine prospero  
+Ad regum thalamos, numine prospero,  
 qui caelum superi quique regunt fretum  
-adsint cum populis rite[^27] faventibus,  
-primum, sceptriferis colla Tonantibus[^28]  
-taurus celsa ferat tergore candido[^29];  
-Lucinam[^30] nivei femina[^31] corporis,  
-intemptata iugo[^32], placet[^33], et asperi  
-Martis sanguineas quae[^34] cohibet manūs,  
+adsint cum populis rite[^28] faventibus.  
+primum, sceptriferis colla Tonantibus[^29]  
+taurus celsa ferat tergore candido[^30];  
+Lucinam[^31] nivei femina[^32] corporis,  
+intemptata iugo[^33], placet[^34]; et asperi  
+Martis sanguineas quae[^35] cohibet manūs,  
 quae dat belligeris foedera gentibus  
 et cornu retinet divite copiam,  
 donetur tenera mitior hostia.  
-et tu[^35], qui facibus legitimis ades,  
+et tu[^36], qui facibus legitimis ades,  
 noctem discutiens auspice dexterā,  
-huc incede, gradu marcidus[^36] ebrio,  
+huc incede, gradu marcidus[^37] ebrio,  
 praecingens roseo tempora vinculo.  
-et tu[^37] quae, gemini praevia temporis,  
-tarde, stella, redis semper amantibus[^38],  
-te matres, avide te cupiunt nurūs[^39]  
+et tu[^38] quae, gemini praevia temporis[^39],  
+tarde, stella, redis semper amantibus[^40],  
+te matres, avide te cupiunt nurūs[^41]  
 quamprimum radios spargere lucidos.
 
-Vincit virgineus decor[^40]  
-longe Cecropias[^41] nurūs,  
-et quas Taygeti[^42] iugis  
+Vincit virgineus decor[^42]  
+longe Cecropias[^43] nurūs,  
+et quas Taygeti[^44] iugis  
 exercet iuvenum modo  
-muris quod caret oppidum[^43]  
-et quas Aonius latex[^44],  
-Alpheosque[^45] sacer lavat.  
+muris quod caret oppidum[^45]  
+et quas Aonius latex[^46],  
+Alpheosque[^47] sacer lavat.  
 si forma velit aspici,  
-cedent Aesonio duci[^46]  
-proles fulminis improbi[^47]  
-aptat qui iuga tigribus[^48],  
-nec non, qui tripodas movet[^49],  
-frater virginis asperae[^50],  
+cedent Aesonio duci[^48]  
+proles fulminis improbi[^49]  
+aptat qui iuga tigribus[^50],  
+nec non, qui tripodas movet[^51],  
+frater virginis asperae[^52],  
 cedet Castore cum suo  
-Pollux[^51] caestibus aptior.  
-sic, sic, caelicolae[^52], precor,  
+Pollux[^53] caestibus aptior.  
+sic, sic, caelicolae[^54], precor,  
 vincat femina coniuges,  
 vir longe superet viros.
 
-Haec[^53] cum femineo constitit in choro,  
-unius facies praenitet[^54] omnibus.  
+Haec[^55] cum femineo constitit in choro,  
+unius facies praenitet[^56] omnibus.  
 sic cum sole perit sidereus decor,  
 et densi latitant Pleiadum greges  
-cum Phoebe[^55] solidum lumine non suo[^56]  
+cum Phoebe[^57] solidum lumine non suo[^58]  
 orbem circuitis cornibus alligat.  
 \[Talem dum iuvenis conspicit, en rubor  
 perfudit subito purpureus genas.\]  
 ostro sic niveus puniceo color  
-perfusus rubuit, sic nitidum iubar[^57]  
+perfusus rubuit, sic nitidum iubar[^59]  
 pastor luce nova roscidus aspicit.  
-ereptus thalamis Phasidis[^58] horridi,  
-effrenae solitus pectora coniugis,  
-invitā trepidus[^59] prendere dexterā,  
-felix Aeoliam corripe virginem[^60],   
-nunc primum soceris, sponse, volentibus.  
-Concesso, iuvenes, ludite iurgio,  
+ereptus thalamis Phasidis horridi,  
+effrenae solitus pectora coniugis  
+invitā trepidus[^60] prendere dexterā,  
+felix Aeoliam corripe virginem[^61],   
+nunc primum soceris, sponse, volentibus[^62].  
+Concesso, iuvenes, ludite iurgio[^63],  
 hinc illinc, iuvenes, mittite carmina;  
-rara est in dominos iusta licentia[^61].  
-candida thyrsigeri proles generosa Lyaei[^62],  
-multifidam[^63] iam tempus erat succendere pinum[^64];  
+rara est in dominos iusta licentia[^64].  
+candida thyrsigeri proles generosa Lyaei[^65],  
+multifidam iam tempus erat succendere pinum[^66];  
 excute sollemnem digitis marcentibus ignem.  
-festa dicax fundat convicia fescenninus[^65],  
+festa dicax fundat convicia fescenninus[^67],  
 solvat turba iocos. tacitis eat illa tenebris,  
-si qua[^66] peregrino nubit fugitiva marito.
+si qua[^68] peregrino nubit fugitiva marito.
 
 ### ACTUS SECUNDUS
 
 *(Audito hymenaeo, Medea furit; nutrix conatur eam sedare.)*
 
 *Medea*  
-Occidimus, aures pepulit hymenaeus[^67] meas.  
+Occidimus, aures pepulit hymenaeus[^69] meas.  
 vix ipsa tantum, vix adhuc credo malum.  
-hoc facere Iason potuit, erepto patre  
+hoc facere Iason potuit, erepto[^70] patre  
 patriā atque regno, sedibus solam exteris  
 deserere durus ? merita contempsit mea  
 qui scelere flammas viderat vinci et mare ?  
-adeone credit omne consumptum nefas[^68] ?  
+adeone credit omne consumptum nefas[^71] ?  
 incerta, vaecors, mente vaesana, feror  
 partes in omnes ; unde me ulcisci queam ?  
-utinam esset illi frater[^69] \! est coniunx ; in hanc  
+utinam esset illi frater[^72] \! est coniunx ; in hanc  
 ferrum exigatur. hoc meis satis est malis ?  
-si quod Pelasgae[^70], si quod urbes barbarae  
+si quod Pelasgae[^73], si quod urbes barbarae  
 novere facinus quod tuae ignorent manūs,  
 nunc est parandum. scelera te hortentur tua  
 et cuncta redeant \- inclitum regni decus  
-raptum et nefandae virginis parvus comes[^71]  
-divisus ense, funus ingestum patri[^72]  
+raptum et nefandae virginis parvus comes[^74]  
+divisus ense, funus ingestum patri[^75]  
 sparsumque ponto corpus, et Peliae senis  
-decocta aeno membra[^73]. funestum impie  
+decocta aeno membra[^76]. funestum impie  
 quam saepe fudi sanguinem \! et nullum scelus  
 irata feci ; movit infelix amor.
 
 Quid tamen Iason potuit, alieni arbitri  
-iurisque factus[^74] ? debuit ferro obvium  
+iurisque factus[^77] ? debuit ferro obvium  
 offerre pectus \- melius, a melius, dolor  
 furiose, loquere. si potest, vivat meus,  
 ut fuit, Iason ; si minus, vivat tamen,  
-memorque nostri muneri parcat meo[^75].  
+memorque nostri muneri parcat meo[^78].  
 culpa est Creontis tota, qui sceptro impotens  
 coniugia solvit quique genetricem abstrahit  
-natis et arto[^76] pignore astrictam fidem  
+natis et arto[^79] pignore astrictam fidem  
 dirimit ; petatur, solus hic poenas luat  
 quas debet. alto cinere cumulabo domum ;  
-videbit atrum verticem[^77] flammis agi  
-Malea longas navibus flectens moras[^78].
+videbit atrum verticem[^80] flammis agi  
+Malea longas navibus flectens moras[^81].
 
 *Nutrix*  
 Sile, obsecro, questusque secreto abditos  
 manda dolori. gravia quisquis vulnera  
 patiente et aequo mutus animo pertulit,  
-referre[^79] potuit ; ira quae tegitur nocet ;  
+referre[^82] potuit ; ira quae tegitur nocet ;  
 professa perdunt odia vindictae locum.
 
 *Medea*  
@@ -204,7 +204,7 @@ alumna ; vix te tacita defendit quies.
 Fortuna fortes metuit, ignavos premit.
 
 *Nutrix*  
-Tunc est probanda, si locum virtus habet[^80].
+Tunc est probanda, si locum virtus habet[^83].
 
 *Medea*  
 Numquam potest non esse virtuti locus.
@@ -216,42 +216,42 @@ Spes nulla rebus monstrat adflictis viam.
 Qui nil potest sperare, desperet nihil.
 
 *Nutrix*  
-Abiere Colchi[^81], coniugis nulla est fides  
+Abiere Colchi[^84], coniugis nulla est fides  
 nihilque superest opibus e tantis tibi.
 
 *Medea*  
-Medea superest\! hīc[^82] mare et terras vides  
+Medea superest \! hīc[^85] mare et terras vides  
 ferrumque et ignes et deos et fulmina.
 
 *Nutrix:* Rex est timendus.   
 *Medea:*			Rex meus fuerat pater.
 
 *Nutrix:* Non metuis arma ?   
-*Medea:* 			Sint licet terra edita[^83].
+*Medea:* 			Sint licet terra edita[^86].
 
 *Nutrix:* Moriere.   
 *Medea:* 		Cupio.  
 *Nutrix:* 			     Profuge.  
-*Medea:*					Paenituit fugae[^84] 
+*Medea:*					Paenituit fugae[^87] 
 
 *Nutrix:* Medea,  
-*Medea:* 	    Fiam[^85].  
+*Medea:* 	    Fiam[^88].  
 *Nutrix:* 		   Mater es.  
-*Medea:* 				Cui sim vides[^86].
+*Medea:* 				Cui sim vides[^89].
 
 *Nutrix:* Profugere dubitas ?  
 *Medea:*			Fugiam, at ulciscar prius.
 
 *Nutrix:* Vindex sequetur.  
-*Medea:* 			Forsan inveniam moras[^87].
+*Medea:* 			Forsan inveniam moras[^90].
 
 *Nutrix*  
-Compesce verba, parce iam, demens, minis  
-animosque minue ; tempori aptari decet[^88].
+Compesce verba; parce iam, demens, minis,  
+animosque minue ; tempori aptari decet[^91].
 
 *Medea*  
-Fortuna opes auferre, non animum potest[^89].   
-sed cuius ictu regius cardo[^90] strepit ?  
+Fortuna opes auferre, non animum potest[^92].   
+sed cuius ictu regius cardo[^93] strepit ?  
 ipse est Pelasgo tumidus imperio Creo.
 
 *(Creo, rex Corinthi, urget Medeam abire imperio.)*
@@ -259,28 +259,28 @@ ipse est Pelasgo tumidus imperio Creo.
 *Creo*  
 Medea, Colchi noxium Aeetae genus,  
 nondum meis exportat e regnis pedem ?  
-molitur[^91] aliquid ; nota fraus, nota est manus.  
+molitur[^94] aliquid ; nota fraus, nota est manus.  
 cui parcet illa, quemve securum sinet ?  
-abolere propere[^92] pessimam ferro luem   
-equidem parabam ; precibus evicit gener[^93].  
+abolere propere[^95] pessimam ferro luem   
+equidem parabam ; precibus evicit gener[^96].  
 concessa vita est; liberet fines metu,  
 abeatque tuta.   
 *\[Videt Medeam appropinquantem\]*  
-Fert gradum contra[^94] ferox,  
-minaxque nostros propius affatus petit[^95].  
+Fert gradum contra[^97] ferox,  
+minaxque nostros propius affatus petit[^98].  
 arcete, famuli, tactu et accessu procul,  
 iubete sileat. regium imperium pati   
-aliquando discat. vade veloci fugā   
+aliquando discat. vade veloci fugā,   
 monstrumque saevum horribile iamdudum avehe.
 
 *Medea*  
-Quod crimen aut quae culpa multatur[^96] fugā ?
+Quod crimen aut quae culpa multatur[^99] fugā ?
 
 *Crea*  
 Quae causa pellat, innocens mulier rogat.
 
 *Medea*  
-Si iudicas, cognosce[^97] ; si regnas, iube.
+Si iudicas, cognosce[^100] ; si regnas, iube.
 
 *Creo*  
 Aequum atque iniquum regis imperium feras. 
@@ -292,10 +292,10 @@ Iniqua numquam regna perpetuo manent.
 I, querere Colchis.
 
 *Medea*  
-Redeo; qui avexit, ferat[^98].
+Redeo; qui avexit, ferat[^101].
 
 *Creo*  
-Vox constituto sera decreto venit[^99].
+Vox constituto sera decreto venit[^102].
 
 *Medea*  
 Qui statuit aliquid parte inaudita altera,  
@@ -309,60 +309,60 @@ sed fare, causae detur egregiae locus.
 Difficile quam sit animum ab irā flectere  
 iam concitatum, quamque regale hoc putet,  
 sceptris superbas quisquis admovit manūs,  
-qua coepit, ire, regiā didici meā[^100].  
+qua coepit, ire, regiā didici meā[^103].  
 quamvis enim sim clade miseranda obruta,  
 expulsa supplex sola deserta, undique  
-afflicta, quondam nobili fulsi[^101] patre  
+afflicta, quondam nobili fulsi[^104] patre  
 avoque clarum Sole deduxi genus.  
-quodcumque[^102] placidis flexibus Phasis[^103] rigat  
+quodcumque[^105] placidis flexibus Phasis[^106] rigat  
 Pontusque quidquid Scythicus a tergo videt,  
-palustribus qua maria dulcescunt aquis,  
-armata peltis[^104] quidquid exterret cohors  
-inclusa ripis vidua[^105] Thermodontiis[^106],  
+palustribus quā maria dulcescunt aquis,  
+armata peltis[^107] quidquid exterret cohors  
+inclusa ripis vidua[^108] Thermodontiis[^109],  
 hoc omne noster genitor imperio regit.  
 generosa, felix, decore regali potens  
-fulsi ; petebant tunc meos thalamos proci[^107],  
-qui nunc petuntur[^108]. rapida fortuna ac levis  
-praecepsque regno eripuit[^109], exilio dedit.  
+fulsi ; petebant tunc meos thalamos proci[^110],  
+qui nunc petuntur[^111]. rapida fortuna ac levis  
+praecepsque regno eripuit[^112], exilio dedit.  
 Confide regnis, cum levis magnas opes  
 huc ferat et illuc casus \! hoc reges habent  
 magnificum et ingens, nulla quod rapiat dies :  
-prodesse miseris, supplices fido lare[^110]  
+prodesse miseris, supplices fido lare[^113]  
 protegere. solum hoc Colchico regno extuli:  
-decus illud ingens Graeciae[^111] et florem inclitum[^112],  
-praesidia Achivae gentis[^113] et prolem deum[^114]  
-servasse memet. munus est Orpheus meum[^115],  
+decus illud ingens Graeciae[^114] et florem inclitum[^115],  
+praesidia Achivae gentis[^116] et prolem deum[^117]  
+servasse memet. munus est Orpheus meum[^118],  
 qui saxa cantu mulcet et silvas trahit,  
 geminique munus Castor et Pollux meum est,  
-satique Borea[^116], quique trans Pontum quoque  
-summota Lynceus lumine immisso videt[^117],  
-omnesque Minyae ; nam ducem taceo ducum[^118],  
+satique Boreā[^119], quique trans Pontum quoque  
+summota Lynceus lumine immisso videt[^120],  
+omnesque Minyae ; nam ducem taceo ducum[^121],  
 pro quo nihil debetur ; hunc nulli imputo ;  
-vobis revexi ceteros, unum[^119] mihi.  
-Incesse nunc et cuncta flagitia ingere[^120].  
+vobis revexi ceteros, unum[^122] mihi.  
+Incesse nunc et cuncta flagitia ingere[^123].  
 fatebor : obici crimen hoc solum potest,  
-Argo reversa[^121]. virgini placeat pudor  
-paterque placeat[^122] ; tota cum ducibus ruet  
+Argo reversa[^124]. virgini placeat pudor  
+paterque placeat[^125] ; tota cum ducibus ruet  
 Pelasga tellus, hic tuus primum gener  
-tauri ferocis ore flammanti occidet[^123].  
+tauri ferocis ore flammanti occidet[^126].  
 fortuna causam quae volet nostram premat,  
 non paenitet servasse tot regum decus.  
 quodcumque culpā praemium ex omni tuli ,  
-hoc est penes te[^124]. si placet, damna ream ;  
-sed redde crimen[^125]. sum nocens, fateor, Creo ;  
+hoc est penes te[^127]. si placet, damna ream ;  
+sed redde crimen[^128]. sum nocens, fateor, Creo ;  
 talem sciebas esse, cum genua attigi  
-fidemque supplex praesidis dextrae[^126] peti ;  
+fidemque supplex praesidis dextrae[^129] peti ;  
 iterum miseriis angulum ac sedem rogo  
-latebrasque viles. urbe si pelli placet[^127],  
+latebrasque viles. urbe si pelli placet[^130],  
 detur remotus aliquis in regnis locus.
 
 *Creo*  
 Non esse me qui sceptra violentus geram  
-nec qui superbo miserias calcem[^128] pede,  
+nec qui superbo miserias calcem[^131] pede,  
 testatus equidem videor haud clare parum  
-generum exulem legendo[^129], et afflictum et gravi  
+generum exulem legendo[^132], et afflictum et gravi  
 terrore pavidum, quippe quem poenae expetit  
-letoque Acastus regna Thessalica optinens[^130].  
+letoque Acastus regna Thessalica optinens[^133].  
 senio trementem debili atque aevo gravem  
 patrem peremptum queritur et caesi senis  
 discissa membra, cum dolo captae tuo   
@@ -370,7 +370,7 @@ piae sorores impium auderent nefas.
 potest Iason, si tuam causam amoves,  
 suam tueri ; nullus innocuum cruor  
 contaminavit, afuit ferro manus,  
-proculque vestro purus a coetu stetit[^131].  
+proculque vestro purus a coetu stetit[^134].  
 tu, tu malorum machinatrix facinorum,  
 feminea cui nequitia ad audenda omnia,  
 robur virile est, nulla famae memoria,  
@@ -380,30 +380,30 @@ aliā sedens tellure sollicita deos.
 
 *Medea*  
 Profugere cogis ? redde fugienti ratem  
-vel redde comitem[^132]. fugere cur solam iubes ?  
-non sola veni. bella[^133] si metuis pati,  
-utrumque regno pelle[^134]. cur sontes duos  
-distinguis ? illi Pelia, non nobis iacet[^135] ;  
+vel redde comitem[^135]. fugere cur solam iubes ?  
+non sola veni. bella[^136] si metuis pati,  
+utrumque regno pelle[^137]. cur sontes duos  
+distinguis ? illi Pelia, non nobis iacet[^138] ;  
 fugam, rapinas adice, desertum patrem  
 lacerumque fratrem, quidquid etiam nunc novas  
-docet maritus coniuges[^136], non est meum[^137].  
+docet maritus coniuges[^139], non est meum[^140].  
 totiens nocens sum facta, sed numquam mihi.
 
 *Creo*  
-Iam exisse decuit. quid seris[^138] fando[^139] moras ?
+Iam exisse decuit. quid seris[^141] fando[^142] moras ?
 
 *Medea*  
 Supplex recedens illud extremum precor :  
 ne culpa natos matris insontes trahat.
 
 *Creo*  
-Vade; hos paterno ut genitor excipiam sinu[^140].
+Vade; hos paterno ut genitor excipiam sinu[^143].
 
 *Medea*  
 Per ego auspicatos regii thalami toros,  
 per spes futuras perque regnorum status,  
-Fortuna variā dubia quos agitat vice[^141],  
-precor, brevem largire[^142] fugienti moram,  
+Fortuna variā dubia quos agitat vice[^144],  
+precor, brevem largire[^145] fugienti moram,  
 dum extrema natis mater infigo oscula,  
 fortasse moriens.
 
@@ -414,74 +414,74 @@ Fraudibus tempus petis.
 Quae fraus timeri tempore exiguo potest ?
 
 *Creo*  
-Nullum ad nocendum tempus angustum[^143] est malis .
+Nullum ad nocendum tempus angustum[^146] est malis .
 
 *Medea*  
-Parumne miserae temporis lacrimis negas[^144] ?
+Parumne miserae temporis lacrimis negas[^147] ?
 
 *Creo*  
-Etsi repugnat precibus infixus timor[^145],  
+Etsi repugnat precibus infixus timor[^148],  
 unus parando dabitur exilio dies.
 
 *Medea*  
-Nimis est, recidas aliquid ex isto licet[^146].  
+Nimis est, recidas aliquid ex isto licet[^149].  
 et ipsa propero.
 
 *Creo*  
-Capite supplicium lues[^147],  
+Capite supplicium lues[^150],  
 clarum priusquam Phoebus attollat diem   
-nisi cedis Isthmo[^148]. Sacra me thalami vocant,  
+nisi cedis Isthmo[^151]. Sacra me thalami vocant,  
 vocat precari festus Hymenaeo dies. \[*Exeunt*\]
 
 *(Chorus refert audaciam primorum nautarum, qui primi mare pererraverunt)*
 
 *Chorus*  
 Audax nimium qui freta primus   
-rate tam fragili perfida rupit[^149];   
+rate tam fragili perfida rupit[^152];   
 terrasque suas post terga videns,   
 animam levibus credidit auris;  
 dubioque secans aequora cursu,  
 potuit tenui fidere ligno,  
 inter vitae mortisque vias   
-nimium gracili limite ducto[^150].
+nimium gracili limite ducto[^153].
 
 Candida nostri saecula patres  
-videre, procul[^151] fraude remota.  
+videre, procul[^154] fraude remota.  
 sua quisque piger litora tangens,   
 patrioque senex factus in arvo,  
-parvo dives[^152], nisi quas tulerat   
+parvo dives[^155], nisi quas tulerat   
 natale solum, non norat opes.  
 nondum quisquam sidera norat,  
 stellisque quibus pingitur aether   
 non erat usus, nondum pluvias  
-Hyadas[^153] poterat vitare ratis,  
-non Oleniae lumina caprae[^154],  
+Hyadas[^156] poterat vitare ratis,  
+non Oleniae lumina caprae[^157],  
 nec quae sequitur flectitque senex  
-Attica tardus plaustra Bootes[^155],  
-nondum Boreas, nondum Zephyrus[^156]   
+Attica tardus plaustra Bootes[^158],  
+nondum Boreas, nondum Zephyrus[^159]   
 nomen habebant.
 
 Ausus Tiphys pandere vasto   
-carbasa[^157] ponto, legesque novas   
+carbasa[^160] ponto, legesque novas   
 scribere ventis : nunc lina sinu  
 tendere toto, nunc prolato  
-pede[^158] transversos captare Notos[^159],  
-nunc antemnas[^160] medio tutas  
-ponere malo[^161], nunc in summo   
+pede[^161] transversos captare Notos[^162],  
+nunc antemnas[^163] medio tutas  
+ponere malo[^164], nunc in summo   
 religare loco, cum iam totos   
-avidus nimium navita[^162] flatus[^163]  
+avidus nimium navita[^165] flatus[^166]  
 optat et alto rubicunda tremunt  
-sipara[^164] velo.
+sipara[^167] velo.
 
 Bene dissaepti foedera mundi   
-traxit in unum Thessala pinus[^165]  
-iussitque pati verbera[^166] pontum,   
+traxit in unum Thessala pinus[^168]  
+iussitque pati verbera[^169] pontum,   
 partemque metus fieri nostri   
-mare sepositum[^167].
+mare sepositum[^170].
 
-Dedit illa[^168] graves improba poenas[^169]  
+Dedit illa[^171] graves improba poenas[^172]  
 per tam longos ducta timores,  
-cum duo montes, claustra profundi[^170],  
+cum duo montes, claustra profundi[^173],  
 hinc atque illinc subito impulsu   
 velut aetherio gemerent sonitu,  
 spargeret arces nubesque ipsas  
@@ -489,102 +489,102 @@ mare deprensum.
 
 Palluit audax Tiphys et omnes   
 labente manu misit habenas,  
-Orpheus tacuit torpente lyrā  
-ipsaque vocem perdidit Argo[^171].  
-quid cum Siculi virgo Pelori[^172],  
-rabidos utero succincta canes[^173],  
-omnes pariter solvit hiatus[^174] ?  
+Orpheus tacuit torpente lyrā,  
+ipsaque vocem perdidit Argo[^174].  
+quid cum Siculi virgo Pelori[^175],  
+rabidos utero succincta canes[^176],  
+omnes pariter solvit hiatus[^177] ?  
 quis non totos horruit artus  
-totiens uno latrante malo[^175] ?  
-quid cum Ausonium dirae pestes[^176]  
+totiens uno latrante malo[^178] ?  
+quid cum Ausonium dirae pestes[^179]  
 voce canora mare mulcerent,  
 cum Pieriā resonans citharā  
 Thracius Orpheus solitam cantu  
 retinere rates paene coegit   
-Sirena[^177] sequi[^178] ? quod fuit huius   
+Sirena[^180] sequi[^181] ? quod fuit huius   
 pretium cursus ? aurea pellis,   
 maiusque mari Medea malum,  
 merces primā digna carinā.  
 Nunc iam cessit pontus et omnes   
 patitur leges ; non Palladiā  
 compacta manu regumque ferens   
-inclita remos quaeritur Argo[^179] ;  
-quaelibet altum[^180] cumba[^181] pererrat.  
-terminus omnis motus[^182], et urbes  
+inclita remos quaeritur Argo[^182] ;  
+quaelibet altum[^183] cumba[^184] pererrat.  
+terminus omnis motus[^185], et urbes  
 muros terrā posuere novā,  
 nil quā fuerat sede reliquit  
-pervius orbis[^183] :
+pervius orbis[^186] :
 
-Indus gelidum potat Araxen[^184],  
-Albin[^185] Persae Rhenumque bibunt.  
+Indus gelidum potat Araxen[^187],  
+Albin[^188] Persae Rhenumque bibunt.  
 venient annis saecula seris,  
 quibus Oceanus vincula rerum  
 laxet et ingens pateat tellus  
 Tethysque novos detegat orbes  
-nec sit terris ultima Thule[^186].
+nec sit terris ultima Thule[^189].
 
 ### ACTUS TERTIUS
 
 *(Nutrix urget Medeam ad fugam, describitque furorem eius. Medea autem se vindicatura annuntiat.)*
 
 *Nutrix*  
-Alumna, celerem quo rapis tectis[^187] pedem ?  
+Alumna, celerem quo rapis tectis[^190] pedem ?  
 resiste et iras comprime ac retine impetum.  
-\[*sibi, Medeam observans*\] Incerta qualis entheos[^188] gressūs tulit  
-cum iam recepto maenas[^189] insanit deo,	  
-Pindi[^190] nivalis vertice aut Nysae[^191] iugis,  
+\[*sibi, Medeam observans*\] Incerta qualis entheos[^191] gressūs tulit  
+cum iam recepto maenas[^192] insanit deo,	  
+Pindi[^193] nivalis vertice aut Nysae[^194] iugis,  
 talis recursat huc et huc motu effero,  
-furoris ore signa lymphati[^192] gerens.  
+furoris ore signa lymphati[^195] gerens.  
 flammata facies spiritum ex alto citat,  
 proclamat, oculos uberi fletu rigat,  
-renidet[^193]; omnis specimen affectus capit.  
+renidet[^196]; omnis specimen affectus capit.  
 quo pondus animi vergat, ubi ponat minas,  
-haeret[^194]; minatur aestuat queritur gemit.  
+haeret[^197]; minatur aestuat queritur gemit.  
 ubi se iste fluctus franget ? exundat furor.  
 non facile secum versat aut medium scelus ;  
-se vincet[^195]. irae novimus veteris notas.  
+se vincet[^198]. irae novimus veteris notas.  
 magnum aliquid instat, efferum immane impium.  
 vultum furoris cerno. di fallant metum \!
 
 *Medea*  
-\[*sibi*\] Si quaeris odio, misera, quem statuas modum[^196],  
-imitare amorem[^197]. regias egone ut faces[^198]  
+\[*sibi*\] Si quaeris odio, misera, quem statuas modum[^199],  
+imitare amorem[^200]. regias egone ut faces[^201]  
 inulta patiar ? segnis hic ibit dies,  
 tanto petitus ambitu, tanto datus ?  
-dum terra caelum media[^199] libratum feret,  
-nitidusque certas mundus evolvet vices[^200],  
-numerusque harenis derit[^201], et solem dies,  
+dum terra caelum media[^202] libratum feret,  
+nitidusque certas mundus evolvet vices[^203],  
+numerusque harenis derit[^204], et solem dies,  
 noctem sequentur astra, dum siccas polus  
-versabit Arctos[^202], flumina in pontum cadent,  
+versabit Arctos[^205], flumina in pontum cadent,  
 numquam meus cessabit in poenas furor,  
 crescetque semper. quae ferarum immanitas,  
 quae Scylla, quae Charybdis Ausonium mare  
-Siculumque sorbens[^203], quaeve anhelantem premens  
-Titana[^204] tantis Aetna[^205] fervebit minis?  
-non rapidus amnis, non procellosum[^206] mare,  
-Pontusve Coro[^207] saevus aut vis ignium  
+Siculumque sorbens[^206], quaeve anhelantem premens  
+Titana[^207] tantis Aetna[^208] fervebit minis?  
+non rapidus amnis, non procellosum[^209] mare,  
+Pontusve Coro[^210] saevus aut vis ignium  
 adiuta flatu, possit imitari impetum  
-irasque nostras[^208] ; sternam et evertam omnia.  
-Timuit[^209] Creontem ac bella Thessalici ducis[^210] ?  
+irasque nostras[^211] ; sternam et evertam omnia.  
+Timuit[^212] Creontem ac bella Thessalici ducis[^213] ?  
 amor timere neminem verus potest.  
 sed cesserit coactus et dederit manūs ;  
 adire certe et coniugem extremo alloqui  
-sermone potuit[^211]. hoc quoque extimuit ferox.  
+sermone potuit[^214]. hoc quoque extimuit ferox.  
 laxare certe tempus immitis fugae  
-genero licebat[^212] \- liberis unus dies  
+genero licebat[^215] \- liberis unus dies  
 datus est duobus. non queror tempus breve ;  
 multum patebit. faciet hic, faciet dies  
-quod nullus[^213] umquam taceat. invadam deos  
+quod nullus[^216] umquam taceat. invadam deos  
 et cuncta quatiam.
 
 *Nutrix*  
 Recipe turbatum malis,  
-era[^214], pectus, animum mitiga.
+era[^217], pectus, animum mitiga.
 
 *Medea*  
 Sola est quies,  
 mecum ruinā cuncta si video obruta ;  
-mecum omnia abeant[^215]. trahere, cum pereas, libet .
+mecum omnia abeant[^218]. trahere, cum pereas, libet .
 
 *Nutrix*  
 Quam multa sint timenda, si perstas, vide ;  
@@ -594,64 +594,64 @@ nemo potentes aggredi tutus potest.
 
 *Iason*  
 O dura fata semper et sortem asperam,  
-cum saevit et cum parcit ex aequo malam[^216] \!  
+cum saevit et cum parcit ex aequo malam[^219] \!  
 remedia quotiens invenit nobis deus  
 periculis peiora; si vellem fidem  
 praestare meritis coniugis, leto fuit  
 caput offerendum ; si mori nollem, fide   
-misero[^217] carendum. non timor vicit fidem,  
+misero[^220] carendum. non timor vicit fidem,  
 sed trepida pietas ; quippe sequeretur necem  
 proles parentum. sancta si caelum incolis  
 Iustitia, numen invoco ac testor tuum :  
-nati patrem vicere. quin ipsam[^218] quoque,  
+nati patrem vicere. quin ipsam[^221] quoque,  
 etsi ferox est corde nec patiens iugi,  
-consulere[^219] natis malle quam thalamis reor.  
-constituit animus precibus iratam aggredi[^220].  
-atque ecce, viso memet[^221], exiluit, furit,  
+consulere[^222] natis malle quam thalamis reor.  
+constituit animus precibus iratam aggredi[^223].  
+atque ecce, viso memet[^224], exiluit, furit,  
 fert odia prae se; totus in vultu est dolor.
 
 *Medea*  
 Fugimus, Iason, fugimus. hoc non est novum,  
 mutare sedes ; causa fugiendi nova est \-  
 pro te solebam fugere. discedo exeo,  
-penatibus profugere quam cogis tuis[^222] ;  
-at quo remittis[^223] ? Phasin et Colchos petam  
+penatibus profugere quam cogis tuis[^225] ;  
+at quo remittis[^226] ? Phasin et Colchos petam  
 patriumque regnum quaeque fraternus cruor  
 perfudit arva ? quas peti terras iubes ?  
 quae maria monstras ? Pontici fauces freti  
-per quas revexi nobilem regum manum[^224]  
-adulterum[^225] secuta per Symplegadas[^226] ?  
+per quas revexi nobilem regum manum[^227]  
+adulterum[^228] secuta per Symplegadas[^229] ?  
 parvamne Iolcon, Thessala an Tempe petam ?  
 quascumque aperui tibi vias, clausi mihi.  
 quo me remittis ? exuli exilium imperas  
-nec das[^227]. eatur. regius iussit gener ;  
+nec das[^230]. eatur. regius iussit gener ;  
 nihil recuso. dira supplicia ingere ;  
-merui. cruentis paelicem[^228] poenis premat  
+merui. cruentis paelicem[^231] poenis premat  
 regalis ira, vinculis oneret manūs  
-clausamque saxo[^229] noctis aeternae obruat ;  
-minora meritis[^230] patiar.  
+clausamque saxo[^232] noctis aeternae obruat ;  
+minora meritis[^233] patiar.  
 Ingratum caput,  
-revolvat animus[^231] igneos tauri[^232] halitūs,  
+revolvat animus[^234] igneos tauri[^235] halitūs,  
 interque saevos gentis indomitae metūs  
 armifero in arvo flammeum Aeetae pecus,  
-hostisque subiti tela[^233], cum iussu meo  
-terrigena miles[^234] mutua caede occidit.  
-adice expetita spolia Phrixei arietis[^235],  
+hostisque subiti tela[^236], cum iussu meo  
+terrigena miles[^237] mutua caede occidit.  
+adice expetita spolia Phrixei arietis[^238],  
 somnoque iussum lumina ignoto dare  
-insomne monstrum[^236], traditum fratrem neci  
-et scelere in uno non semel factum scelus[^237],  
-ausasque natas[^238] fraude deceptas mea  
-secare membra non revicturi senis[^239].  
-per spes tuorum liberum et certum larem[^240],  
+insomne monstrum[^239], traditum fratrem neci  
+et scelere in uno non semel factum scelus[^240],  
+ausasque natas[^241] fraude deceptas mea  
+secare membra non revicturi senis[^242].  
+per spes tuorum liberum et certum larem[^243],  
 per victa monstra, per manūs, pro te quibus  
 numquam peperci, perque praeteritos metūs,  
-per caelum et undas coniugi[^241] testes mei,  
+per caelum et undas coniugi[^244] testes mei,  
 miserere, redde supplici felix vicem.  
 aliena quaerens regna deserui mea ;  
 ex opibus illis, quas procul raptas Scythae  
-usque a perustis Indiae populis agunt[^242],  
+usque a perustis Indiae populis agunt[^245],  
 quas quia referta vix domus gaza capit,  
-ornamus auro nemora[^243], nil exul tuli  
+ornamus auro nemora[^246], nil exul tuli  
 nisi fratris artus. hos quoque impendi tibi,  
 tibi patria cessit, tibi pater, frater, pudor \-  
 hac dote nupsi. redde fugienti sua.
@@ -669,7 +669,7 @@ gravis ira regum est semper.
 
 *Medea*  
 Hoc suades mihi,  
-praestas Creusae[^244]; paelicem invisam amoves.
+praestas Creusae[^247]; paelicem invisam amoves.
 
 *Iason*  
 Medea amores obicit ?
@@ -689,22 +689,22 @@ tuis ut etiam sceleribus fiam nocens.
 
 *Medea*  
 Tua illa, tua sunt illa; cui prodest scelus,  
-is fecit. omnes coniugem[^245] infamem arguant ;  
-solus tuere[^246], solus insontem voca ;  
+is fecit. omnes coniugem[^248] infamem arguant ;  
+solus tuere[^249], solus insontem voca ;  
 tibi innocens sit quisquis est pro te nocens.
 
 *Iason*  
-Ingrata vita est cuius acceptae pudet[^247].
+Ingrata vita est cuius acceptae pudet[^250].
 
 *Medea*  
-Retinenda non est cuius acceptae pudet.[^248]
+Retinenda non est cuius acceptae pudet.[^251]
 
 *Iason*  
 Quin potius irā concitum pectus doma,  
-placare[^249] natis[^250].
+placare[^252] natis[^253].
 
 *Medea*  
-Abdico eiuro abnuo[^251],  
+Abdico eiuro abnuo[^254],  
 meis Creusa liberis fratres dabit ?
 
 *Iason*  
@@ -713,7 +713,7 @@ Regina natis exulum, afflictis potens.
 *Medea*  
 Non veniat umquam tam malus miseris dies  
 qui prole foeda misceat prolem inclitam,  
-Phoebi nepotes Sisyphi nepotibus[^252].
+Phoebi nepotes Sisyphi nepotibus[^255].
 
 *Iason*  
 Quid, misera, meque teque in exitium trahis ?  
@@ -726,19 +726,19 @@ Supplicem audivit Creo.
 Quid facere possim, loquere.
 
 *Medea*  
-Pro me? vel scelus[^253].
+Pro me? vel scelus[^256].
 
 *Iason*  
 Hinc rex et illinc \-
 
 *Medea*  
 Est (et hic maior metus)  
-Medea. nos confligere[^254]. certemus[^255] sine,  
+Medea. nos confligere[^257]. certemus[^258] sine,  
 sit pretium Iason.
 
 *Iason*  
 Cedo defessus malis.  
-et ipsa casus saepe iam expertos time.
+et ipsa casūs saepe iam expertos time[^259].
 
 *Medea*  
 Fortuna semper omnis infra me stetit.
@@ -749,64 +749,64 @@ Acastus instat.
 *Medea*  
 Propior est hostis Creo ;  
 utrumque profuge. non ut in socerum manūs  
-armes, nec ut te caede cognatā inquines[^256],  
-Medea cogit[^257] ; innocens mecum fuge.
+armes, nec ut te caede cognatā inquines[^260],  
+Medea cogit[^261] ; innocens mecum fuge.
 
 *Iason*  
 Et quis resistet, gemina si bella ingruant,  
 Creo atque Acastus arma si iungant sua ?
 
 *Medea*  
-His adice[^258] Colchos, adice et Aeeten ducem[^259],  
-Scythas Pelasgis iunge ; demersos dabo[^260].
+His adice[^262] Colchos, adice et Aeeten ducem[^263],  
+Scythas Pelasgis iunge ; demersos dabo[^264].
 
 *Iason*  
 Alta extimesco sceptra.
 
 *Medea*  
-Ne cupias vide[^261].
+Ne cupias vide[^265].
 
 *Iason*  
 Suspecta ne sint, longa colloquia amputa.
 
-*Medea[^262]*  
+*Medea[^266]*  
 Nunc summe toto Iuppiter caelo tona,  
 intende dextram, vindices flammas para,   
 omnemque ruptis nubibus mundum quate.  
 nec deligenti tela librentur manu  
-vel me vel istum[^263]; quisquis e nobis cadet  
+vel me vel istum[^267]; quisquis e nobis cadet  
 nocens peribit, non potest in nos tuum  
 errare fulmen.
 
 *Iason*  
 Sana meditari incipe   
 et placida fare. si quod ex soceri domo  
-potest fugam levare solamen[^264], pete.
+potest fugam levare solamen[^268], pete.
 
 *Medea*  
 Contemnere animus regias, ut scis, opes   
-potest soletque[^265] ; liberos tantum fugae  
-habere comites liceat[^266], in quorum sinu  
- lacrimas profundam[^267]. te novi nati manent.
+potest soletque[^269] ; liberos tantum fugae  
+habere comites liceat[^270], in quorum sinu  
+lacrimas profundam[^271]. te novi nati manent.
 
 *Iason*  
 Parere precibus cupere me fateor tuis ;  
 pietas vetat ; namque istud ut possim pati,  
-non ipse memet cogat et rex et socer[^268].  
+non ipse memet cogat et rex et socer[^272].  
 haec causa vitae est, hoc perusti pectoris   
 curis levamen. spiritu citius queam   
 carere, membris, luce.
 
 *Medea*  
 \[*secum*\] Sic natos amat ?  
-bene est, tenetur, vulneri patuit locus[^269] \-  
+bene est, tenetur, vulneri patuit locus[^273] \-  
 \[*Iasoni*\] suprema certe liceat abeuntem loqui  
-mandata[^270], liceat ultimum amplexum dare ;  
-gratum est et illud. voce iam extrema peto,  
+mandata[^274], liceat ultimum amplexum dare ;  
+gratum est et illud. voce iam extremā peto,  
 ne, si quā noster dubius effudit dolor,  
 maneant in animo verba ; melioris tibi  
 memoria nostri sedeat ; haec irae data  
-oblitterentur[^271].
+oblitterentur[^275].
 
 *Iason*  
 Omnia ex animo expuli,   
@@ -815,133 +815,133 @@ placideque tractes ; miserias lenit quies. \[*Exit*\]
 
 *Medea*  
 Discessit. itane est ? vadis oblitus mei  
-et tot meorum facinorum ? excidimus tibi[^272] ?  
+et tot meorum facinorum ? excidimus tibi[^276] ?  
 numquam excidemus. \[*sibi*\] hoc age, omnes advoca  
 vires et artes. fructus est scelerum tibi  
-nullum scelus putare[^273]. vix fraudi est locus ;  
-timemur[^274]. hāc aggredere[^275], quā nemo potest  
+nullum scelus putare[^277]. vix fraudi est locus ;  
+timemur[^278]. hāc aggredere[^279], quā nemo potest  
 quicquam timere. perge nunc, aude, incipe  
 quidquid potest Medea, quidquid non potest.  
 Tu, fida nutrix, socia maeroris mei  
 variique casūs, misera consilia adiuva.  
-est palla[^276] nobis, munus aetherium, domus  
+est palla[^280] nobis, munus aetherium, domūs  
 decusque regni, pignus Aeetae datum  
 a Sole generis ; est et auro textili  
-monile[^277] fulgens ; quodque gemmarum nitor  
-distinguit aurum[^278], quo solent cingi comae.  
-haec nostra nati dona nubenti[^279] ferant,  
-sed ante diris inlita[^280] ac tincta artibus.  
+monile[^281] fulgens ; quodque gemmarum nitor  
+distinguit aurum[^282], quo solent cingi comae.  
+haec nostra nati dona nubenti[^283] ferant,  
+sed ante diris inlita[^284] ac tincta artibus.  
 vocetur Hecate. sacra letifica appara ;  
-statuantur arae, flamma iam tectis[^281] sonet.
+statuantur arae, flamma iam tectis[^285] sonet.
 
-*(Chorus canit de potestate foeminae furentis, atque de poenis quae dederint Argaunotae maris violati.)*
+*(Chorus canit de potestate foeminae furentis, atque de poenis quas Argonautae sustulerunt pro mare violatā.)*
 
 *Chorus*  
 Nulla vis flammae tumidive venti  
 tanta, nec teli metuenda torti,  
-quanta cum coniunx viduata taedis[^282]  
+quanta cum coniunx viduata taedis[^286]  
 ardet et odit ;
 
 non ubi hibernos nebulosus imbres  
-Auster[^283] advexit, properatque torrens  
-Hister[^284], et iunctos vetat esse pontes[^285],  
+Auster[^287] advexit, properatque torrens  
+Hister[^288], et iunctos vetat esse pontes[^289],  
 ac vagus errat ;
 
-non ubi impellit Rhodanus[^286] profundum[^287],  
+non ubi impellit Rhodanus[^290] profundum[^291],  
 aut ubi in rivos nivibus solutis  
 sole iam forti medioque vere  
-tabuit Haemus[^288].
+tabuit Haemus[^292].
 
 caecus est ignis stimulatus irā  
 nec regi curat patiturve frenos,  
 aut timet mortem ; cupit ire in ipsos  
-obvius enses[^289].
+obvius enses[^293].
 
 Parcite, o divi, veniam precamur,  
-vivat ut tutus mare qui subegit[^290] ;  
+vivat ut tutus mare qui subegit[^294] ;  
 sed furit vinci dominus profundi  
-regna secunda[^291].
+regna secunda[^295].
 
-ausus aeternos agitare currus[^292],  
+ausus aeternos agitare currus[^296],  
 immemor metae iuvenis paternae,  
 quos polo sparsit furiosus ignes   
-ipse recepit.
+ipse recepit[^297].
 
-constitit nulli via nota magno[^293] ;  
-vade quā tutum populo priori[^294],  
+constitit nulli via nota magno[^298] ;  
+vade quā tutum populo priori[^299],  
 rumpe nec sacro, violente, sancta  
-foedera mundi[^295].
+foedera mundi[^300].
 
-Quisquis audacis tetigit carinae[^296]  
+Quisquis audacis tetigit carinae[^301]  
 nobiles remos, nemorisque sacri  
-Pelion[^297] densa spoliavit umbra,  
-quisquis intravit scopulos vagantes[^298]  
+Pelion[^302] densa spoliavit umbra,  
+quisquis intravit scopulos vagantes[^303]  
 et, tot emensus pelagi labores,  
-barbarā funem[^299] religavit orā,  
-raptor externi rediturus auri[^300],  
-exitu diro temerata[^301] ponti  
-iura piavit[^302].
+barbarā funem[^304] religavit orā,  
+raptor externi rediturus auri[^305],  
+exitu diro temerata[^306] ponti  
+iura piavit[^307].
 
-Exigit poenas mare provocatum[^303].  
+Exigit poenas mare provocatum[^308].  
 Tiphys in primis, domitor profundi,  
-liquit indocto regimen magistro[^304] ;  
+liquit indocto regimen magistro[^309] ;  
 litore externo, procul a paternis  
 occidens regnis, tumuloque vili  
 tectus, ignotas iacet inter umbras.  
 Aulis, amissi memor inde regis  
-portibus lentis retinet carinas[^305],  
-stare querentes[^306].
+portibus lentis retinet carinas[^310],  
+stare querentes[^311].
 
-Ille vocali genitus Camenā[^307],  
+Ille vocali genitus Camenā[^312],  
 cuius ad chordas, modulante plectro,  
 restitit torrens, siluere venti,  
 cum suo cantu volucris relicto  
 adfuit, totā comitante silvā,  
 Thracios sparsus iacuit per agros,  
-at caput tristi fluitavit Hebro[^308] ;  
-contigit notam[^309] Styga Tartarumque,  
+at caput tristi fluitavit Hebro[^313] ;  
+contigit notam[^314] Styga Tartarumque,  
 non rediturus.
 
-Stravit[^310] Alcides[^311] Aquilone natos[^312],  
-patre Neptuno genitum[^313] necavit,   
+Stravit[^315] Alcides[^316] Aquilone natos[^317],  
+patre Neptuno genitum[^318] necavit,   
 sumere innumeras solitum figuras ;  
-ipse[^314] post terrae pelagique pacem[^315],  
+ipse[^319] post terrae pelagique pacem[^320],  
 post feri Ditis patefacta regna,  
-vivus ardenti recubans in Oetā[^316]  
+vivus ardenti recubans in Oetā[^321]  
 praebuit saevis sua membra flammis,  
-tabe consumptus gemini cruoris[^317],  
-munere nuptae[^318] .
+tabe consumptus gemini cruoris[^322],  
+munere nuptae[^323] .
 
 Stravit Ancaeum violentus ictu  
-saetiger[^319] ; fratrem, Meleagre[^320], matris  
-impius mactas[^321], morerisque dextrā  
+saetiger[^324] ; fratrem, Meleagre[^325], matris  
+impius mactas[^326], morerisque dextrā  
 matris iratae. meruere cuncti.  
 morte quod crimen tener expiavit  
-Herculi magno puer[^322] inrepertus[^323],  
+Herculi magno puer[^327] inrepertus[^328],  
 raptus, heu, tutas puer inter undas?  
 ite nunc, fortes, perarate pontum  
-fonte timendo[^324].
+fonte timendo[^329].
 
-Idmonem[^325], quamvis bene fata nosset,  
+Idmonem[^330], quamvis bene fata nosset,  
 condidit serpens Libycis harenis ;  
-omnibus verax, sibi falsus uni[^326],  
+omnibus verax, sibi falsus uni[^331],  
 concidit Mopsus, caruitque Thebis.  
-ille[^327] si vere cecinit futura,  
-exul errabit Thetidis maritus[^328].  
-igne fallaci nociturus Argis[^329],  
+ille[^332] si vere cecinit futura,  
+exul errabit Thetidis maritus[^333].  
+igne fallaci nociturus Argis[^334],  
 Nauplius praeceps cadet in profundum ;  
-occidet proles[^330], patrioque pendet  
-crimine[^331] poenas ; 	
+occidet proles[^335], patrioque pendet  
+crimine[^336] poenas ; 	
 
-fulmine et ponto moriens Oileus[^332] ;  
+fulmine et ponto moriens Oileus[^337] ;  
 coniugis fatum redimens, Pheraei  
-uxor[^333], impendens animam marito.  
+uxor[^338], impendens animam marito.  
 ipse qui praedam spoliumque iussit   
-aureum[^334] primā revehi carinā,  
-ustus accenso Pelias aeno[^335]  
+aureum[^339] primā revehi carinā,  
+ustus accenso Pelias aeno[^340]  
 arsit angustas vagus inter undas.  
 iam satis, divi, mare vindicastis ;  
-parcite iusso[^336].
+parcite iusso[^341].
 
 ### ACTUS QUARTUS
 
@@ -950,174 +950,174 @@ parcite iusso[^336].
 *Nutrix*  
 Pavet animus, horret, magna pernicies adest.   
 immane quantum augescit et semet dolor  
-accendit ipse, vimque praeteritam integrat[^337].  
-vidi[^338] furentem saepe et aggressam deos,  
+accendit ipse, vimque praeteritam integrat[^342].  
+vidi[^343] furentem saepe et aggressam deos,  
 caelum trahentem ; maius his, maius parat   
-Medea monstrum. namque ut attonito[^339] gradu   
-evasit et penetrale[^340] funestum attigit,  
+Medea monstrum. namque ut attonito[^344] gradu   
+evasit et penetrale[^345] funestum attigit,  
 totas opes effundit, et quidquid diu   
-etiam ipsa timuit promit[^341], atque omnem explicat[^342]   
+etiam ipsa timuit promit[^346], atque omnem explicat[^347]   
 turbam malorum, arcana secreta abdita,  
-et triste laevā comprecans sacrum[^343] manu,   
+et triste laevā comprecans sacrum[^348] manu,   
 pestes vocat, quascumque ferventis creat   
 harena Libyae, quasque perpetua nive   
-Taurus[^344] cohercet frigore Arctoo[^345] rigens,  
+Taurus[^349] cohercet frigore Arctoo[^350] rigens,  
 et omne monstrum. tracta magicis cantibus   
-squamifera latebris turba[^346] desertis adest.  
+squamifera latebris turba[^351] desertis adest.  
 hic saeva serpens corpus immensum trahit,  
 trifidamque linguam exertat et quaerit quibus   
-mortifera veniat ; carmine[^347] audito, stupet,  
-tumidumque nodis corpus aggestis[^348] plicat   
+mortifera veniat ; carmine[^352] audito, stupet,  
+tumidumque nodis corpus aggestis[^353] plicat   
 cogitque in orbes. "parva sunt" inquit "mala  
 et vile telum est, ima quod tellus creat ;  
 caelo petam venena. iam iam tempus est  
-aliquid movere fraude vulgari altius[^349].  
+aliquid movere fraude vulgari altius[^354].  
 huc ille vasti more torrentis iacens  
-descendat anguis[^350], cuius immensos duae,  
-maior minorque, sentiunt nodos ferae[^351]  
-(maior Pelasgis apta, Sidoniis minor[^352]),  
-pressasque tandem solvat Ophiuchus[^353] manus,  
-virusque[^354] fundat; adsit ad cantūs meos  
-lacessere ausus gemina Python numina[^355].  
-et Hydra et omnis redeat Herculea manu  
-succisa serpens, caede se reparans sua.  
+descendat anguis[^355], cuius immensos duae,  
+maior minorque, sentiunt nodos ferae[^356]  
+(maior Pelasgis apta, Sidoniis minor[^357]),  
+pressasque tandem solvat Ophiuchus[^358] manus,  
+virusque[^359] fundat; adsit ad cantūs meos  
+lacessere ausus gemina Python numina[^360].  
+et Hydra et omnis redeat Herculeā manu  
+succisa serpens, caede se reparans suā.  
 tu quoque relictis pervigil Colchis ades,  
-sopite primum cantibus, serpens[^356], meis[^357]. "
+sopite primum cantibus, serpens[^361], meis[^362]. "
 
 Postquam evocavit omne serpentum genus,  
-congerit in unum frugis infaustae mala[^358].  
-quaecumque generat invius saxis Eryx,  
-quae fert opertis hieme perpetua iugis  
+congerit in unum frugis infaustae mala[^363].  
+quaecumque generat invius saxis Eryx[^364],  
+quae fert opertis hieme perpetuā iugis  
 sparsus cruore Caucasus Promethei,  
-et quīs[^359] sagittas divites Arabes linunt,  
+et quīs[^365] sagittas divites Arabes linunt,  
 pharetraque pugnax Medus aut Parthi leves,  
-aut quos sub axe frigido sucos legunt[^360]  
-lucis[^361] Suebae[^362] nobiles Hyrcaniis ;  
+aut quos sub axe frigido sucos legunt[^366]  
+lucis[^367] Suebae[^368] nobiles Hyrcaniis ;  
 quodcumque tellus vere nidifico creat,  
 aut rigida cum iam bruma discussit decus  
-nemorum[^363], et nivali cuncta constrinxit gelu,  
+nemorum[^369], et nivali cuncta constrinxit gelu,  
 quodcumque gramen flore mortifero viret,  
 quicumque tortis sucus in radicibus  
-causas nocendi gignit, attrectat[^364] manu.  
-Haemonius illas contulit pestes Athos[^365],  
+causas nocendi gignit, attrectat[^370] manu.  
+Haemonius illas contulit pestes Athos[^371],  
 has Pindus ingens, illa Pangaei iugis  
-teneram cruentā falce deposuit comam[^366] ;  
+teneram cruentā falce deposuit comam[^372] ;  
 has aluit altum gurgitem Tigris premens,  
-Danuvius illas, has per arentes plagas[^367]  
-tepidis Hydaspes[^368] gemmifer currens aquis,  
-nomenque terris qui dedit Baetis suis[^369],  
-Hesperia pulsans maria[^370] languenti vado[^371].  
-haec passa ferrum est, dum parat Phoebus diem[^372] ;  
-illius altā nocte succisus[^373] frutex ;  
-at huius ungue secta cantato seges[^374].  
-Mortifera carpit gramina ac serpentium  
-saniem[^375] exprimit, miscetque et obscenas aves,  
-maestique cor bubonis et raucae strigis[^376]  
-exsecta vivae viscera. haec[^377] scelerum artifex  
-discreta[^378] ponit : his[^379] rapax vis ignium,  
+Danuvius illas, has per arentes plagas[^373]  
+tepidis Hydaspes[^374] gemmifer currens aquis,  
+nomenque terris qui dedit Baetis suis[^375],  
+Hesperia pulsans maria[^376] languenti vado[^377].  
+haec passa ferrum est, dum parat Phoebus diem[^378] ;  
+illius altā nocte succisus[^379] frutex ;  
+at huius ungue secta cantato seges[^380].  
+mortifera carpit gramina ac serpentium  
+saniem[^381] exprimit, miscetque et obscenas aves,  
+maestique cor bubonis et raucae strigis[^382]  
+exsecta vivae viscera. haec[^383] scelerum artifex  
+discreta[^384] ponit : his[^385] rapax vis ignium,  
 his gelida pigri frigoris glacies inest.  
 addit venenis verba non illis minus  
-metuenda. \- sonuit ecce vesano[^380] gradu  
-canitque[^381]. mundus vocibus primis tremit.
+metuenda. \- sonuit ecce vesano[^386] gradu  
+canitque[^387]. mundus vocibus primis tremit.
 
 *(Medea invocat divos atque manes, tum miscet herbas et alias res horrendas, ad venenum magicum componendum.)*
 
 *Medea*  
-Comprecor vulgus silentum[^382], vosque ferales deos,  
+Comprecor vulgus silentum[^388], vosque ferales deos,  
 et Chaos caecum atque opacam Ditis umbrosi domum,  
-Tartari ripis ligatos squalidae Mortis specūs.  
-supplicis, animae, remissis currite ad thalamos novos[^383] :  
-rota resistat membra torquens[^384], tangat Ixion humum,  
+Tartari ripis ligatos squalidae Mortis specūs[^389].  
+supplicis, animae, remissis currite ad thalamos novos[^390] :  
+rota resistat membra torquens[^391], tangat Ixion humum,  
 Tantalus securus undas hauriat Pirenidas.  
 vos quoque, urnis quas foratis inritus ludit labor,   
 Danaides, coite : vestras hic dies quaerit manus.   
-gravior uni poena sedeat: coniugis socero mei[^385] ;  
-lubricus per saxa retro Sisyphum volvat lapis[^386].  
-Nunc meis vocata sacris, noctium sidus[^387], veni  
+gravior uni poena sedeat: coniugis socero mei[^392] ;  
+lubricus per saxa retro Sisyphum volvat lapis[^393].  
+Nunc meis vocata sacris, noctium sidus[^394], veni  
 pessimos induta vultus, fronte non unā minax.
 
-Tibi, more gentis vinculo solvens comam[^388],  
+Tibi, more gentis vinculo solvens comam[^395],  
 secreta nudo nemora lustravi pede,  
 et evocavi nubibus siccis aquas,  
 egique ad imum maria, et Oceanus graves  
-interius[^389] undas, aestibus victis, dedit ;  
-pariterque mundus lege confusa aetheris  
+interius[^396] undas, aestibus victis, dedit ;  
+pariterque mundus lege confusā aetheris  
 et solem et astra vidit, et vetitum mare  
-tetigistis, ursae[^390]. temporum flexi vices :  
-aestiva tellus floruit[^391] cantu meo,  
+tetigistis, ursae[^397]. temporum flexi vices :  
+aestiva tellus floruit[^398] cantu meo,  
 coacta messem vidit hibernam Ceres ;  
 violenta Phasis vertit in fontem vada  
-et Hister[^392], in tot ora divisus, truces[^393]  
+et Hister[^399], in tot ora divisus, truces[^400]  
 compressit undas, omnibus ripis piger.  
 sonuere fluctūs, tumuit insanum mare  
 tacente vento ; nemoris antiqui domus  
 amisit umbras, vocis imperio meae  
 die reducto ; Phoebus in medio stetit,  
-Hyadesque[^394] nostris cantibus motae labant :  
+Hyadesque[^401] nostris cantibus motae labant :  
 adesse sacris tempus est, Phoebe, tuis.
 
-Tibi haec cruentā serta[^395] texuntur manu,  
-novena[^396] quae serpens ligat,  
-tibi haec Typhoeus membra quae discors tulit,  
+Tibi haec cruentā serta[^402] texuntur manu,  
+novena[^403] quae serpens ligat,  
+tibi haec Typhoeus membra[^404] quae discors tulit,  
 qui regna concussit Iovis.  
-vectoris[^397] istic perfidi sanguis inest,  
+vectoris[^405] istic perfidi sanguis inest,  
 quem Nessus expirans dedit.  
 Oetaeus isto cinere defecit rogus,  
-qui virus Herculeum bibit[^398].  
+qui virus Herculeum bibit[^406].  
 piae sororis, impiae matris, facem   
-ultricis Althaeae[^399] vides.  
+ultricis Althaeae[^407] vides.  
 reliquit istas invio plumas specu   
-Harpyia[^400], dum Zeten fugit.  
-his adice pinnas sauciae Stymphalidos[^401]   
-Lernaea passae spicula[^402].  
+Harpyia[^408], dum Zeten fugit.  
+his adice pinnas sauciae Stymphalidos[^409]   
+Lernaea passae spicula[^410].  
 sonuistis, arae ; tripodas agnosco meos,  
-favente commotos deā[^403].
+favente commotos deā[^411].
 
-Video Triviae[^404] currūs agiles,  
-non[^405] quos pleno lucida vultu  
+Video Triviae[^412] currūs agiles,  
+non[^413] quos pleno lucida vultu  
 pernox agitat, sed quos facie  
 lurida maesta, cum Thessalicis  
-vexata[^406] minis, caelum freno  
-propiore[^407] legit[^408]. sic face tristem   
+vexata[^414] minis, caelum freno  
+propiore[^415] legit[^416]. sic face tristem   
 pallida lucem funde per auras ;  
 horrore novo terre populos,   
 inque auxilium, Dictynna, tuum   
-pretiosa sonent aera Corinthi[^409].  
-tibi sanguineo caespite[^410] sacrum   
+pretiosa sonent aera Corinthi[^417].  
+tibi sanguineo caespite[^418] sacrum   
 sollemne damus, tibi de medio   
 rapta sepulchro fax nocturnos   
 sustulit ignes, tibi mota caput   
 flexā voces cervice dedi,  
 tibi funereo de more iacens  
-passos cingit vitta capillos,  
+passos cingit vitta capillos[^419],  
 tibi iactatur tristis Stygiā   
 ramus ab undā, tibi nudato  
-pectore maenas[^411] sacro feriam   
+pectore maenas[^420] sacro feriam   
 bracchia cultro. manet noster  
 sanguis ad aras; assuesce, manus,  
 stringere ferrum, carosque pati  
-posse cruores[^412] \- sacrum laticem  
+posse cruores[^421] \- sacrum laticem  
 percussa dedi.
 
 Quodsi nimium saepe vocari  
-quereris votis[^413], ignosce precor ;  
-causa vocandi, Persei[^414], tuos  
+quereris votis[^422], ignosce precor ;  
+causa vocandi, Persei[^423], tuos  
 saepius arcūs una atque eadem est  
-semper, Iason.
+semper: Iason.
 
 \[*sibi*\] Tu nunc vestes tinge Creusae,  
 quas cum primum sumpserit, imas   
 urat serpens flamma medullas.  
-ignis fulvo clusus in auro[^415]   
+ignis fulvo clusus in auro[^424]   
 latet obscurus, quem mihi caeli   
-qui furta luit viscere feto[^416],  
+qui furta luit viscere feto[^425],  
 dedit et docuit condere vires  
-arte, Prometheus[^417]. dedit et tenui  
-sulphure tectos Mulciber[^418] ignes,  
+arte, Prometheus[^426]. dedit et tenui  
+sulphure tectos Mulciber[^427] ignes,  
 et vivacis fulgura flammae  
 de cognato Phaethonte tuli.  
-habeo mediae dona Chimaerae[^419],  
-habeo flammas usto tauri[^420]  
+habeo mediae dona Chimaerae[^428],  
+habeo flammas usto tauri[^429]  
 gutture raptas, quas, permixto  
 felle Medusae, tacitum iussi  
 servare malum.
@@ -1125,16 +1125,16 @@ servare malum.
 Adde venenis stimulos, Hecate,  
 donisque meis semina flammae  
 condita serva. fallant visūs,  
-tactūsque ferant, meet[^421] in pectus  
+tactūsque ferant, meet[^430] in pectus  
 venasque calor, stillent artūs,   
 ossaque fument, vincatque suas   
-flagrante comā nova nupta faces[^422].  
+flagrante comā nova nupta faces[^431].  
 Vota tenentur ; ter latratus   
 audax Hecate dedit et sacros  
 edidit ignes face luciferā.
 
 Peracta vis est omnis ; huc natos voca,  
-pretiosa per quos dona nubenti[^423] feras.  
+pretiosa per quos dona nubenti[^432] feras.  
 ite, ite, nati, matris infaustae genus,  
 placate vobis munere et multā prece   
 dominam ac novercam. vadite et celeres domum  
@@ -1146,11 +1146,11 @@ referte gressus, ultimo amplexu ut fruar.
 Quonam cruenta maenas  
 praeceps amore saevo  
 rapitur ? quod impotenti  
- facinus parat furore ?  
-vultus citatus ira  
+facinus parat furore ?  
+vultus citatus irā  
 riget, et caput feroci  
 quatiens superba motu  
-regi minatur ultro[^424].  
+regi minatur ultro[^433].  
 quis credat exulem ?  
 Flagrant genae rubentes,  
 pallor fugat ruborem,  
@@ -1167,13 +1167,13 @@ nunc ira amorque causam
 iunxere ; quid sequetur ?  
 quando efferet Pelasgis   
 nefanda Colchis arvis  
-gressum[^425], metuque solvet   
+gressum[^434], metuque solvet   
 regnum simulque reges ?  
 nunc, Phoebe, mitte currus  
 nullo morante loro,  
 nox condat alma lucem,  
 mergat diem timendum  
-dux noctis Hesperus[^426].
+dux noctis Hesperus[^435].
 
 ### ACTUS QUINTUS
 
@@ -1195,22 +1195,22 @@ In illis esse quis potuit dolus ?
 
 *Nuntius*  
 Et ipse miror vixque iam facto malo   
-potuisse fieri credo. quis cladis modus ?  
+potuisse fieri credo. quis cladis modus[^436] ?  
 avidus per omnem regiae partem furit   
 ut iussus ignis ; iam domus tota occidit,  
 urbi timetur.
 
 *Chorus*  
-unda flammas opprimat[^427].  
+unda flammas opprimat[^437].  
 *Nuntius*  
 Et hoc in ista clade mirandum accidit :  
 alit unda flammas, quoque prohibetur magis,  
-magis ardet ignis ; ipsa praesidia[^428] occupat.
+magis ardet ignis ; ipsa praesidia[^438] occupat.
 
 *(Medea de ultione persequenda deliberat)*
 
 *Nutrix*  
-Effer citatum sede Pelopea[^429] gradum,  
+Effer citatum sede Pelopea[^439] gradum,  
 Medea, praeceps quaslibet terras pete.
 
 *Medea*  
@@ -1218,51 +1218,52 @@ Egone ut recedam ? si profugissem prius,
 ad hoc redirem. nuptias specto novas.  
 \[*sibi*\] quid, anime, cessas ? sequere felicem impetum.  
 pars ultionis ista, quā gaudes, quota est ?  
-amas[^430] adhuc, furiose, si satis est tibi  
-caelebs[^431] Iason. quaere poenarum genus  
-haut[^432] usitatum, iamque sic temet para :  
+amas[^440] adhuc, furiose, si satis est tibi  
+caelebs[^441] Iason. quaere poenarum genus  
+haut[^442] usitatum, iamque sic temet para :  
 fas omne cedat, abeat expulsus pudor ;  
-vindicta levis est quam ferunt purae manūs[^433].  
-incumbe in iras, teque languentem[^434] excita,  
+vindicta levis est quam ferunt purae manūs[^443].  
+incumbe in iras, teque languentem[^444] excita,  
 penitusque veteres pectore ex imo impetūs  
-violentus hauri[^435]. quidquid admissum[^436] est adhuc,  
-pietas vocetur[^437]. hoc age et faxis sciant[^438]  
+violentus hauri[^445]. quidquid admissum[^446] est adhuc,  
+pietas vocetur[^447]. hoc age et faxis sciant[^448]  
 quam levia fuerint, quamque vulgaris notae  
-quae commodavi[^439] scelera. prolusit dolor  
-per ista noster ; quid manūs poterant rudes[^440]  
+quae commodavi[^449] scelera. prolusit dolor  
+per ista noster ; quid manūs poterant rudes[^450]  
 audere magnum ? quid puellaris furor ?  
 Medea nunc sum ; crevit ingenium malis.  
 Iuvat, iuvat rapuisse fraternum caput ;  
-artus[^441] iuvat secuisse et arcano patrem  
-spoliasse sacro[^442], iuvat in exitium senis[^443]  
+artus[^451] iuvat secuisse et arcano patrem  
+spoliasse sacro[^452], iuvat in exitium senis[^453]  
 armasse natas. quaere materiam, dolor ;  
 ad omne facinus non rudem dextram afferes.  
 Quo te igitur, ira, mittis, aut quae perfido  
-intendis hosti[^444] tela ? nescio quid ferox  
-decrevit animus intus, et nondum sibi  
-audet fateri. stulta properavi nimis[^445] \-   
-ex paelice[^446] utinam liberos hostis meus  
-aliquos haberet[^447]\! \[*mora; sibi:*\] quidquid ex illo tuum est,  
-Creusa peperit[^448]. placuit hoc poenae genus,  
+intendis hosti[^454] tela ? nescio quid ferox  
+decrevit animus intus[^455], et nondum sibi  
+audet fateri. stulta properavi nimis[^456] \-   
+ex paelice[^457] utinam liberos hostis meus  
+aliquos haberet[^458]\! \[*mora; sibi:*\] quidquid ex illo tuum est,  
+Creusa peperit[^459]. placuit hoc poenae genus,  
 meritoque placuit ; ultimum, agnosco, scelus  
 animo parandum est. liberi quondam mei,  
-vos pro paternis sceleribus poenas date.  
-Cor pepulit horror[^449], membra torpescunt gelu  
-pectusque tremuit. ira discessit loco  
-materque tota coniuge expulsā redit.  
+vos pro paternis sceleribus poenas date.
+
+Cor pepulit horror[^460], membra torpescunt gelu  
+pectusque tremuit. ira discessit loco,  
+materque tota, coniuge expulsā, redit.  
 egone ut meorum liberum ac prolis meae  
-fundam cruorem ? melius, a, demens furor \!  
+fundam cruorem ? melius, a, demens furor,  
 incognitum istud facinus ac dirum nefas  
 a me quoque absit ; quod scelus miseri luent ?  
-scelus[^450] est Iason genitor et maius scelus  
+scelus[^461] est Iason genitor et maius scelus  
 Medea mater. occidant, non sunt mei ;  
 pereant \- mei sunt. crimine et culpā carent,  
 sunt innocentes \- fateor, et frater fuit.  
 quid, anime, titubas ? ora quid lacrimae rigant,  
-variamque[^451] nunc huc ira, nunc illuc amor  
-diducit ? anceps aestus[^452] incertam rapit ;  
-ut saeva rapidi bella cum venti gerunt[^453],  
-utrimque fluctūs maria discordes agunt[^454],  
+variamque[^462] nunc huc ira, nunc illuc amor  
+diducit ? anceps aestus[^463] incertam rapit ;  
+ut saeva rapidi bella cum venti gerunt[^464],  
+utrimque fluctūs maria discordes agunt[^465],  
 dubiumque fervet pelagus, haut aliter meum  
 cor fluctuatur. ira pietatem fugat  
 iramque pietas. cede pietati, dolor.  
@@ -1272,30 +1273,31 @@ coniungite artus. habeat incolumes pater,
 dum et mater habeat. urguet exilium ac fuga.  
 iam iam meo rapientur avulsi e sinu,  
 flentes, gementes osculis. pereant patri,   
-[^455]periere matri. rursus increscit dolor  
+[^466]periere matri. rursus increscit dolor  
 et fervet odium, repetit invitam manum  
-antiqua Erinys[^456]. ira, quā ducis, sequor.  
-utinam superbae turba Tantalidos[^457] meo  
+antiqua Erinys[^467]. ira, quā ducis, sequor.  
+utinam superbae turba Tantalidos[^468] meo  
 exisset utero, bisque septenos parens  
 natos tulissem \! sterilis in poenas fui;  
-fratri patrique quod sat est, peperi duos[^458].  
-Quonam ista tendit turba Furiarum impotens[^459] ?  
+fratri patrique quod sat est, peperi duos[^469].
+
+Quonam ista tendit turba Furiarum impotens[^470] ?  
 quem quaerit aut quo flammeos ictūs parat,  
 aut cui cruentas agmen infernum faces  
 intentat ? ingens anguis excusso sonat  
-tortus flagello[^460]. quem trabe infestā petit  
-Megaera[^461] ? cuius umbra dispersis venit  
+tortus flagello[^471]. quem trabe infestā petit  
+Megaera[^472] ? cuius umbra dispersis venit  
 incerta membris ? frater est, poenas petit.  
-dabimus, sed omnes. fige luminibus[^462] faces,  
-lania, perure[^463], pectus[^464] en Furiis patet.  
+dabimus, sed omnes. fige luminibus[^473] faces,  
+lania, perure[^474], pectus[^475] en Furiis patet.  
 Discedere a me, frater, ultrices deas,  
 manesque ad imos ire securas, iube ;  
-mihi me relinque, et utere[^465] hac, frater, manu  
-quae strinxit[^466] ensem \- \[*unum filium interfecit*\] victimā manes tuos  
+mihi me relinque, et utere[^476] hac, frater, manu  
+quae strinxit[^477] ensem \- \[*unum filium interfecit*\] victimā manes tuos  
 placamus istā. \- quid repens affert sonūs ?  
 parantur arma, meque in exitium petunt.  
 excelsa nostrae tecta conscendam domūs,  
-caede incohata[^467]. \[*filio altero:*\] perge tu mecum comes.  
+caede incohata[^478]. \[*filio altero:*\] perge tu mecum comes.  
 \[*filio mortuo*:\] tuum quoque ipsa corpus hinc mecum aveham.  
 nunc hoc age, anime ; non in occulto tibi est  
 perdenda virtus ; approba populo manum.
@@ -1303,14 +1305,14 @@ perdenda virtus ; approba populo manum.
 *(Iason et comites in Medeam aggrediuntur; Medea vindictam suam perficit.)*
 
 *Iason*  
-Quicumque regum cladibus fidus doles[^468],  
+Quicumque regum cladibus fidus doles[^479],  
 concurre, ut ipsam sceleris auctorem horridi  
 capiamus. huc, huc fortis armiferi cohors  
 conferte tela, vertite ex imo domum.
 
 *Medea*  
 Iam iam recepi sceptra, germanum, patrem,  
-spoliumque Colchi pecudis auratae tenent[^469] ;  
+spoliumque Colchi pecudis auratae tenent[^480] ;  
 rediere regna, rapta virginitas redit.  
 o placida tandem numina, o festum diem,  
 o nuptialem \! vade, perfectum est scelus;  
@@ -1318,10 +1320,10 @@ vindicta nondum; perage, dum faciunt manus.
 quid nunc moraris, anime ? quid dubitas potens ?  
 iam cecidit ira. paenitet facti, pudet.  
 quid, misera, feci ? misera ? paeniteat licet,  
-feci[^470]. voluptas magna me invitam subit,  
+feci[^481]. voluptas magna me invitam subit,  
 et ecce crescit. \[*aspicit Iasonem*\] derat hoc unum mihi,  
-spectator iste[^471]. nil adhuc facti reor ;  
-quidquid sine isto fecimus sceleris perit[^472].
+spectator iste[^482]. nil adhuc facti reor ;  
+quidquid sine isto fecimus sceleris perit[^483].
 
 *Iason*  
 En ipsa tecti parte praecipiti imminet.  
@@ -1329,20 +1331,20 @@ huc rapiat ignes aliquis, ut flammis cadat
 suis perusta.
 
 *Medea*  
-Congere[^473] extremum tuis  
+Congere[^484] extremum tuis  
 natis, Iason, funus, ac tumulum strue ;  
-coniunx socerque iusta iam functis[^474] habent,  
-a me sepulti[^475] ; natus hic fatum tulit[^476],  
-hic[^477] te vidente dabitur exitio pari.
+coniunx socerque iusta iam functis[^485] habent,  
+a me sepulti[^486] ; natus hic fatum tulit[^487],  
+hic[^488] te vidente dabitur exitio pari.
 
 *Iason*  
 Per numen omne perque communes fugas  
-torosque[^478], quos non nostra violavit fides,  
+torosque[^489], quos non nostra violavit fides,  
 iam parce nato. si quod est crimen, meum est ;  
 me dedo morti ; noxium macta caput.
 
 *Medea*  
-Hac quā recusas[^479], quā doles, ferrum exigam.  
+Hac quā recusas[^490], quā doles, ferrum exigam.  
 i nunc, superbe, virginum thalamos pete,  
 relinque matres.
 
@@ -1352,13 +1354,13 @@ Vnus est poenae satis
 *Medea*  
 Si posset unā caede satiari haec manus,  
 nullam petisset. ut duos perimam, tamen  
-nimium est dolori numerus angustus meo[^480].  
+nimium est dolori numerus angustus meo[^491].  
 in matre si quod pignus etiamnunc latet,  
-scrutabor ense viscera, et ferro extraham[^481].
+scrutabor ense viscera, et ferro extraham[^492].
 
 *Iason*  
 Iam perage coeptum facinus \- haut ultra precor,  
-moramque saltem supplicis dona meis[^482].
+moramque saltem supplicis dona meis[^493].
 
 *Medea*  
 Perfruere lento scelere, ne propera, dolor :  
@@ -1370,7 +1372,7 @@ Infesta, memet perime.
 *Medea*  
 Misereri iubes \-  
 \[*filium alterum occidit*\] bene est, peractum est. plura non habui, dolor,  
-quae tibi litarem[^483]. lumina huc tumida alleva,  
+quae tibi litarem[^494]. lumina huc tumida alleva,  
 ingrate Iason. coniugem agnoscis tuam ?  
 sic fugere soleo. \[*currus a duobus draconibus tractus exoritur*\] patuit in caelum via :  
 squamosa gemini colla serpentes iugo  
@@ -1403,7 +1405,7 @@ testare nullos esse, quā veheris, deos.
 
 [^11]:  Furies
 
-[^12]:  *thalami*: cubiculum nuptiale
+[^12]:  *thalamus*: cubiculum nuptiale
 
 [^13]:  proli, familiae
 
@@ -1413,936 +1415,958 @@ testare nullos esse, quā veheris, deos.
 
 [^16]:  produco
 
-[^17]:  i.e. e manibus eorum
+[^17]:  i.e. e manibus hostium
 
 [^18]:  Medea ferebatur esse neptis Solis 
 
 [^19]:  *purus polus*: caelum clarum
 
-[^20]:  Corinthos, sita in isthmo qui separat maria, imponat *moras* navibus
+[^20]:  Corinthos, sita in isthmo qui separat duo maria, imponat *moras* navibus
 
-[^21]:  \= ut \[ego\] ipsa feram pinum \[i.e. facem\] pronubam thalamo
+[^21]:  iungat, colligat (i.e. iungat maria per deletionem suam)
 
-[^22]:  i.e. postquam dicam preces sacrificales, ego occidam victimas super altares (*dicatis*: dedicatis)
+[^22]:  \= ut \[ego\] ipsa feram pinum \[i.e. facem\] pronubam thalamo
 
-[^23]:  *Caucasus, Pontus, Phasis*: loci natales Medeae
+[^23]:  i.e. postquam dicam preces sacrificales, ego occidam victimas super altares (*dicatis*: dedicatis)
 
-[^24]:  i.e. postquam natos peperi
+[^24]:  *Caucasus, Pontus, Phasis*: loci prope Cholcidem, urbem natalem Medeae
 
-[^25]:  i.e. narrentur tuum repudium eodem modo quo narrant thalamos \[i.e. nuptias\] tuos \[propter magnitudinem criminum quae evenerunt in utroque\]
+[^25]:  i.e. postquam natos peperi
 
-[^26]:  \= quo modo linques virum \[maritum\]?
+[^26]:  i.e. narrentur tuum repudium eodem modo quo narrant thalamos (i.e. nuptias) tuos (propter magnitudinem criminum quae evenerunt in utroque)
 
-[^27]:  solemniter, religiose
+[^27]:  \= quo modo linques virum \[maritum\]?
 
-[^28]:  Iupiter et Iuno
+[^28]:  solemniter, religiose
 
-[^29]:  \= primum, ferat taurus, tergore \[i.e. tergo\] candido, colla \[sua\] celsa sceptriferis Tonantibus 
+[^29]:  *sceptriferi tonantes*: Iupiter et Iuno
 
-[^30]:  Iuno
+[^30]:  \= primum, ferat taurus, tergore \[i.e. tergo\] candido, colla \[sua\] celsa sceptriferis Tonantibus 
 
-[^31]:  vacca candida
+[^31]:  Iuno
 
-[^32]:  i.e. quae numquam subiit iugum
+[^32]:  vacca candida
 
-[^33]:  subiunctivus (placare)
+[^33]:  i.e. quae numquam subiit iugum
 
-[^34]:  Pax
+[^34]:  subiunctivus (*placare*)
 
-[^35]:  Hymen
+[^35]:  Pax
 
-[^36]:  titubans, vacillans
+[^36]:  Hymen
 
-[^37]:  Hesperus, stella vesperis
+[^37]:  titubans, vacillans
 
-[^38]:  amantes, noctem desiderantes, semper arbitrantur vesperum tarde venire 
+[^38]:  stella Veneris
 
-[^39]:  sponsae, uxores iuvenculae
+[^39]:  *praevia*: antegrediens; *gemini temporis*: stella Veneris oritur ambo mane atque vesperi 
 
-[^40]:  pulchritudo \[Creusae\]
+[^40]:  amantes, noctem desiderantes, semper arbitrantur vesperum tarde venire 
 
-[^41]:  Athenienses
+[^41]:  sponsae, uxores iuvenculae
 
-[^42]:  mons prope Spartam
+[^42]:  pulchritudo \[Creusae\]
 
-[^43]:  \= et \[has nurūs\] quas oppidum quod caret muris \[i.e. Sparta\] exercet, modo iuvenum \[i.e. eodem modo quo exercet iuvenes masculos\]
+[^43]:  Athenienses
 
-[^44]:  Dirce, fons Beoetiae (=Aonia), prope Thebas
+[^44]:  mons prope Spartam
 
-[^45]:  flumen Peloponnesi, prope urbem Elis
+[^45]:  \= et \[has nurūs\] quas oppidum quod caret muris \[i.e. Sparta\] exercet, modo iuvenum \[i.e. eodem modo quo exercet iuvenes masculos\]
 
-[^46]:  *dux Aesonius:* Iason, filius Aesonis
+[^46]:  Dirce, fons Beoetiae (=Aonia), prope Thebas
 
-[^47]:  Bacchus, de fulmine natus
+[^47]:  flumen Peloponnesi, prope urbem Elis
 
-[^48]:  \= qui aptat iuga trigribus
+[^48]:  *dux Aesonius:* Iason, filius Aesonis
 
-[^49]:  Apollo
+[^49]:  Bacchus, de fulmine natus
 
-[^50]:  Diana
+[^50]:  \= qui aptat iuga trigribus
 
-[^51]:  \= cedet Pollux cum Castore \[fratre\] suo
+[^51]:  Apollo
 
-[^52]:  dei 
+[^52]:  Diana
 
-[^53]:  Creusa
+[^53]:  \= cedet Pollux cum Castore \[fratre\] suo
 
-[^54]:  lucet, splendet plus quam omnes aliae
+[^54]:  dei 
 
-[^55]:  Luna
+[^55]:  Creusa
 
-[^56]:  *non suo*: quia hoc lumen de Sole accipit
+[^56]:  lucet, splendet plus quam omnes aliae
 
-[^57]:  aurora, prima lux solis
+[^57]:  Luna
 
-[^58]:  *Phasis*: flumen in Caucaso situm, prope Colchidem, urbem natalem Medeae
+[^58]:  *non suo*: quia hoc lumen de Sole accipit
 
-[^59]:  pavens, reluctans
+[^59]:  aurora, prima lux solis
 
-[^60]:  Creusa, progenies Aeolii (filius Helleni, non imperator ventorum)
+[^60]:  pavens, reluctans
 
-[^61]:  i.e. raro licet dominos irridere
+[^61]:  *virgo Aeolia*: Creusa, progenies Aeolii (filius Helleni, non rex ventorum)
 
-[^62]:  *Lyaeus thyrsigerus*: Bacchus, gerens hastam. *proles Lyaei*: Hymen, filius Bacchi.
+[^62]:  \= sponse \[i.e. Iason\], ereptus thalamis Phasidis horridi \[i.e. Medeae\], solitus prendere pectora effrenae coniugis \[cum\] invitā dexterā, trepidus, corripe virginem Aeoliam, nunc primum soceris volentibus \[dissimilibus parentibus Medeae, qui non assenserunt coniugio\]
 
-[^63]:  in multas partes scinda
+[^63]:  *iurgium concessum*: convicia permissa (propter diem festam nuptiarum)
 
-[^64]:  fax
+[^64]:  i.e. raro licet dominos irridere
 
-[^65]:  scurra, derisor, qui sponsos benigne irridet
+[^65]:  *Lyaeus thyrsigerus*: Bacchus, gerens hastam. *proles Lyaei*: Hymen, filius Bacchi.
 
-[^66]:  aliqua (fugitiva) \- allusio ad Medeam
+[^66]:  *pinum multifidam*: facem in multas partes scissam
 
-[^67]:  carmen nuptiale
+[^67]:  scurra, derisor, qui sponsos benigne irridet
 
-[^68]:  i.e. creditne meam potestam ad malum faciendum exstinctam esse?
+[^68]:  aliqua (fugitiva); allusio ad Medeam
 
-[^69]:  i.e. quem possem necare, ut necavi fratrem meum
+[^69]:  carmen nuptiale
 
-[^70]:  Graecae
+[^70]:  sc. "a me"
 
-[^71]:  Absyrtus, Medeae frater 
+[^71]:  i.e. creditne meam potestam ad malum faciendum exstinctam esse?
 
-[^72]:  i.e. scelus peractus sub oculis patris
+[^72]:  i.e. quem possem necare, ut necavi fratrem meum
 
-[^73]:  Pelia rex Iolcii, qui Iasonem miserat ad vellum aureum quaerendam, eique iniurias fecerat, a filias suas discerptus est, partesque corpus suus positae in vaso aeneo atque concoctae, propter fraudem Medeae; frequenter alluditur ad hoc in sequentibus.
+[^73]:  Graecae
 
-[^74]:  i.e. coactus ab Creonte ad repudium Medeae
+[^74]:  Absyrtus, Medeae frater 
 
-[^75]:  \= memorque nostri \[i.e. mei\], parcat meo muneri \[i.e. vitae eius\]
+[^75]:  i.e. scelus peractus sub oculis patris
 
-[^76]:  *artus*: strictus, severus
+[^76]:  Pelia rex Iolcii, qui Iasonem miserat ad vellus aureum quaerendum, eique iniurias fecerat, a filias suas discerptus est, partesque corpus suus positae in vaso aeneo atque concoctae, propter fraudem Medeae; frequenter alluditur ad hoc in sequentibus.
 
-[^77]:  acropolis Corinthi
+[^77]:  i.e. coactus a Creonte ad repudium Medeae
 
-[^78]:  isthmus Corinthi *flectabat* naves ad Maleam, in meridie Peloponneso sitam
+[^78]:  \= memorque nostri \[i.e. mei\], parcat meo muneri \[i.e. vitae eius\]
 
-[^79]:  i.e. reddere, ulcisci
+[^79]:  *artus*: strictus, severus
 
-[^80]:  \= si virtus locum habet \[ut te adiuvare possit\], tunc est probanda
+[^80]:  acropolis Corinthi
 
-[^81]:  i.e cives Colchidis, urbis tuae, te deseruerunt 
+[^81]:  isthmus Corinthi *flectabat* naves ad Maleam, in meridie Peloponneso sitam
 
-[^82]:  i.e. in me, Medea
+[^82]:  i.e. reddere, ulcisci
 
-[^83]:  i.e. non timeo arma, et si de terra ipsa surgerent (ut surrexerunt miles ex dentibus draconis in terram satis ab Iasone, quem Medea servavit consilio eius)
+[^83]:  \= si virtus locum habet \[ut te adiuvare possit\], tunc est probanda
 
-[^84]:  i.e. meae fugae priores mihi nihil profuerunt
+[^84]:  i.e cives Colchidis, urbis tuae, te deseruerunt 
 
-[^85]:  i.e. nunc ego fiam vere Medea (quia agam ut Medea agere debet)
+[^85]:  i.e. in me, Medea
 
-[^86]:  portentum exiti tragoediae
+[^86]:  i.e. non timeo arma, et si de terra ipsa surgerent (ut surrexerunt miles ex dentibus draconis in terram satis ab Iasone, quem Medea servavit consilio suo)
 
-[^87]:  i.e. quas imponerem vindici
+[^87]:  i.e. meae fugae priores mihi nihil profuerunt
 
-[^88]:  i.e. decet aptare te tempori
+[^88]:  i.e. nunc ego fiam vere Medea (quia agam ut Medea agere debet)
 
-[^89]:  \= fortuna potest opes auferre \[ab me, sed\] non \[potest auferre\] animum
+[^89]:  portentum exiti tragoediae
 
-[^90]:  *cardo regius*: ostium, ianua regis
+[^90]:  i.e. quas imponerem vindici
 
-[^91]:  parat
+[^91]:  i.e. decet aptare te tempori
 
-[^92]:  cito, statim
+[^92]:  \= fortuna potest opes auferre \[ab me, sed\] non \[potest auferre\] animum
 
-[^93]:  Iason
+[^93]:  *cardo regius*: ostium, ianua regis
 
-[^94]:  i.e. ad me
+[^94]:  parat
 
-[^95]:  i.e. mecum loqui propius quaerit
+[^95]:  cito, statim
 
-[^96]:  punitur
+[^96]:  Iason
 
-[^97]:  i.e. audi postulatas meas
+[^97]:  i.e. ad me
 
-[^98]:  i.e. ille qui me vexit hic (i.e. Iason), abeat mecum
+[^98]:  i.e. mecum loqui propius quaerit
 
-[^99]:  i.e. preces tuae veniunt nimium sero, quia decretum meum iam constitutum est (neque posset mutari)
+[^99]:  punitur
 
-[^100]:  \= \[in\] regiā meā, didici quam difficile sit flectere animum iam concitatum ab irā, quamque quisquis admovit manūs superbas sceptris \[i.e. rex\] hoc putet regale \[esse\], quā coepit, ire \[i.e. peragire coepta\].
+[^100]:  i.e. audi postulatas meas
 
-[^101]:  resplendui, eminui
+[^101]:  i.e. ille qui me vexit hic (i.e. Iason), abeat mecum
 
-[^102]:  i.e. quascumque terras
+[^102]:  i.e. preces tuae veniunt nimium sero, quia decretum meum iam constitutum est (neque posset mutari)
 
-[^103]:  flumen in Caucaso situm, prope natalem urbem Medeae (vide supra)
+[^103]:  \= \[in\] regiā meā, didici quam difficile sit flectere animum iam concitatum ab irā, quamque quisquis admovit manūs superbas sceptris \[i.e. rex\] hoc putet regale \[esse\], quā coepit, ire \[i.e. perficere coepta sua\].
 
-[^104]:  scutum, clipeus
+[^104]:  resplendui, eminui
 
-[^105]:  *cohors vidua*: agmen feminarum innuptarum (i.e. Amazones) 
+[^105]:  i.e. quascumque terras
 
-[^106]:  flumen Anatoliae
+[^106]:  flumen in Caucaso situm, prope natalem urbem Medeae (vide supra)
 
-[^107]:  *procus*: vir quaerens ducere quamdam feminam in matrimonium
+[^107]:  scutum, clipeus
 
-[^108]:  i.e. ab me
+[^108]:  *cohors vidua*: agmen feminarum innuptarum (i.e. Amazones) 
 
-[^109]:  i.e. me eripuit
+[^109]:  flumen Anatoliae
 
-[^110]:  *fidus lar*: domus secura
+[^110]:  *procus*: vir quaerens ducere quamdam feminam in matrimonium
 
-[^111]:  i.e. Argonautae
+[^111]:  i.e. a me
 
-[^112]:  clarum, famosum
+[^112]:  i.e. me eripuit a regno
 
-[^113]:  i.e. defensores Graecorum
+[^113]:  *fidus lar*: domus secura
 
-[^114]:  deorum
+[^114]:  i.e. Argonautae
 
-[^115]:  *munus meum est*: quia ego vitam eorum servavi
+[^115]:  clarum, famosum
 
-[^116]:  filii Boreae (Zetes et Calais)
+[^116]:  i.e. defensores Graecorum
 
-[^117]:  \= et Lynceus qui, lumine \[i.e. oculo\] immisso, videt summota \[i.e. res remotas, longinquas\] trans Pontum quoque
+[^117]:  deorum
 
-[^118]:  i.e. de duce supremo (Iasone) non loquar
+[^118]:  *munus meum est*: quia ego vitam eorum servavi
 
-[^119]:  i.e. hunc unum
+[^119]:  filii Boreae (Zetes et Calais)
 
-[^120]:  i.e. accusa me multorum scelerum
+[^120]:  \= Lynceusque qui, lumine \[i.e. oculo\] immisso, videt summota \[i.e. res remotas, longinquas\] trans Pontum quoque
 
-[^121]:  i.e. mihi unum crimen est: Argonem rediisse (propter meum auxilium) 
+[^121]:  i.e. de duce supremo (Iasone) non loquar
 
-[^122]:  i.e. si ego, virgo, servavissem pudorem, paruissemque patrem (neque cum Iasone abiissem)...
+[^122]:  i.e. hunc (Iasonem) unum
 
-[^123]:  ...tunc Argonauta atque Iason periissent
+[^123]:  i.e. accusa me multorum scelerum
 
-[^124]:  i.e. in manibus tuis
+[^124]:  i.e. mihi unum crimen est: Argonem rediisse (propter meum auxilium) 
 
-[^125]:  i.e. redde mihi Iasonem, fructum criminum meorum (quia haec crimina servaverunt vitam eius) 
+[^125]:  i.e. si ego, virgo, servavissem pudorem, paruissemque patrem (neque cum Iasone abiissem)...
 
-[^126]:  *dextra praeses*: manus protegens, defendens (contra Acastum, vide infra)
+[^126]:  ...tunc Argonauta atque Iason periissent
 
-[^127]:  \= si tibi placet ut ego expellar ab urbe
+[^127]:  i.e. in manibus tuis
 
-[^128]:  *calcare*: cum pede premere, frangere
+[^128]:  i.e. redde mihi Iasonem, fructum criminum meorum (quia haec crimina servaverunt vitam eius) 
 
-[^129]:  i.e. credo me hoc confirmasse haud parum (i.e. multum) clare, cum exulem (i.e. Iasonem) generum elegi
+[^129]:  *dextra praeses*: manus protegens, defendens (contra Acastum, vide infra)
 
-[^130]:  Acastus, filius Peliae regis Thessaliae, persequebatur Medeam atque Iasonem, ad necem patris sui ulciscendam
+[^130]:  \= si tibi placet ut ego expellar ab urbe
 
-[^131]:  \= stetit purus, proculque a coetu vestro \[i.e. a te\]
+[^131]:  *calcare*: cum pede premere, frangere
 
-[^132]:  i.e. Iason
+[^132]:  i.e. credo me hoc confirmasse haud parum (i.e. multum) clare, cum exulem (i.e. Iasonem) generum elegi
 
-[^133]:  ab Acasto
+[^133]:  Acastus, filius Peliae regis Thessaliae, persequebatur Medeam atque Iasonem, ad necem patris sui ulciscendam
 
-[^134]:  \= pelle utrumque \[i.e. me atque Iasonem\] \[ab\] regno
+[^134]:  \= stetit purus, proculque a coetu vestro \[i.e. a te\]
 
-[^135]:  i.e. Pelia occisus est (a me) pro Iasone, non pro me (quia inimicus Iasoni erat).
+[^135]:  i.e. Iason
 
-[^136]:  i.e. quidcumque nefas maritus (i.e. Iason) docet uxorem novam suam (i.e. Creusam), etiam nunc
+[^136]:  ab Acasto
 
-[^137]:  i.e. non est culpa mea, sed Iasonis
+[^137]:  \= pelle utrumque \[i.e. me atque Iasonem\] \[ab\] regno
 
-[^138]:  inseris, fingis
+[^138]:  i.e. Pelia occisus est (a me) pro Iasone, non pro me (quia inimicus Iasoni erat).
 
-[^139]:  loquendo
+[^139]:  i.e. quidcumque nefas maritus (i.e. Iason) docet uxorem novam suam (i.e. Creusam), etiam nunc
 
-[^140]:  i.e. ego accipiam eos ut filios meos
+[^140]:  i.e. non est culpa mea, sed Iasonis
 
-[^141]:  \= quos Fortuna dubia agitat variā vice
+[^141]:  inseris, fingis
 
-[^142]:  \= concedere, tribuere
+[^142]:  loquendo
 
-[^143]:  parvum, exiguum
+[^143]:  i.e. ego accipiam eos ut filios meos
 
-[^144]:  i.e. negasne miserae (i.e. mihi) etiam tempum exiguum plorendo?
+[^144]:  \= quos Fortuna dubia agitat variā vice
 
-[^145]:  i.e. etsi timor infixus (in me, in animo meo) monet me ut negem preces tuas
+[^145]:  \= concedere, tribuere
 
-[^146]:  i.e. etsi tu aliquid ex hōc tempore auferres 
+[^146]:  parvum, exiguum
 
-[^147]:  i.e. poenam capitalem (necem) sufferes
+[^147]:  i.e. negasne miserae (i.e. mihi) etiam tempum exiguum plorendo?
 
-[^148]:  \= nisi cedis \[ab\] Isthmo \[i.e. Corintho\] priusquam Phoebus \[i.e. Sol\] attollat diem clarum
+[^148]:  i.e. etsi timor infixus (in me, in animo meo) monet me ut negem preces tuas
 
-[^149]:  \= \[ille fuit\] audax nimium, qui primus rupit freta perfida \[cum\] rate tam fragili \[i.e. Tiphys et Argonautae, quos poetae censebant primos nautas esse, primumque ante omnes navigavisse super maria\]
+[^149]:  i.e. etsi tu aliquid ex hōc tempore auferres 
 
-[^150]:  i.e. ducens nimium gracilem limitem
+[^150]:  i.e. poenam capitalem (necem) sufferes
 
-[^151]:  sc. "ab"
+[^151]:  \= nisi cedis \[ab\] Isthmo \[i.e. Corintho\] priusquam Phoebus \[i.e. Sol\] attollat diem clarum
 
-[^152]:  i.e. dives sibi videbantur etsi parum possidebant
+[^152]:  \= \[ille fuit\] audax nimium, qui primus rupit freta perfida \[cum\] rate tam fragili \[i.e. Tiphys et Argonautae, quos poetae censebant primos nautas esse, primumque ante omnes navigavisse super maria\]
 
-[^153]:  *Hyades*: stellae quae dicebantur pluviam afferre
+[^153]:  i.e. ducens nimium gracilem limitem
 
-[^154]:  stella Capella (=parva capra), tempestates afferans.
+[^154]:  sc. "ab"
 
-[^155]:  \= nec plaustra Attica, quae senex Bootes tardus sequitur flectitque \[*plaustra*: Ursa Maior et Ursa Minor; *Bootes*: constellatio prope Ursas, septemtrionem indicans; *tardus*: lentus\]
+[^155]:  i.e. dives sibi videbantur etsi parum possidebant
 
-[^156]:  *Boreas, Zephyrus*: nomines ventorum
+[^156]:  *Hyades*: stellae quae dicebantur pluviam afferre
 
-[^157]:  vela
+[^157]:  stella Capella (=parva capra), tempestates afferans.
 
-[^158]:  *prolato pede*: parte infimā veli obliquatā (ad ventos laterales captandos)
+[^158]:  \= nec plaustra Attica, quae senex Bootes tardus sequitur flectitque \[*plaustra*: Ursa Maior et Ursa Minor; *Bootes*: constellatio prope Ursas sita, septemtrionem indicans; *tardus*: lentus\]
 
-[^159]:  ventos 
+[^159]:  *Boreas, Zephyrus*: nomines ventorum
 
-[^160]:  trabes horizontales positas trans malum navis
+[^160]:  vela
 
-[^161]:  *malum*: trabs verticalis magna quae fert vela navis
+[^161]:  *prolato pede*: parte infimā veli obliquatā (ad ventos laterales captandos)
 
-[^162]:  nauta, navigator
+[^162]:  ventos 
 
-[^163]:  *totos flatūs*: ventos integros, validos
+[^163]:  trabes horizontales positas trans malum navis
 
-[^164]:  parva vela, supra vela principalia posita
+[^164]:  *malum*: trabs verticalis magna quae fert vela navis
 
-[^165]:  \= Thessala pinus \[i.e. Argo\] traxit foedera \[i.e. regna\] mundi bene dissaepti \[i.e. recte, sagaciter divisi a Deis\]  in unum \[foedus\]
+[^165]:  nauta, navigator
 
-[^166]:  i.e. ictūs remorum
+[^166]:  *totos flatūs*: ventos integros, validos
 
-[^167]:  \= mareque sepositum \[i.e. separatum, reservatum\] fieri partem nostri metūs
+[^167]:  parva vela, supra vela principalia posita
 
-[^168]:  Argo navis
+[^168]:  \= Thessala pinus \[i.e. Argo\] traxit foedera \[i.e. regna\] mundi bene dissaepti \[i.e. recte, sagaciter divisi a Deis\]  in unum \[foedus\]
 
-[^169]:  *dare poenas*: puniri
+[^169]:  i.e. ictūs remorum
 
-[^170]:  maris
+[^170]:  \= mareque sepositum \[i.e. separatum, reservatum\] fieri partem nostri metūs
 
-[^171]:  Argo, navis magica, loqui poterat
+[^171]:  Argo navis
 
-[^172]:  i.e. Scylla, monstrum maritimum qui quondam virgo Sicula (=in insulā Siciliae nata) fuit
+[^172]:  *dare poenas*: puniri
 
-[^173]:  i.e. habens canes rabidos circum ventrem suum
+[^173]:  i.e. Symplegades, scopulos mobiles qui claudebant Bosphorum 
 
-[^174]:  i.e. simul aperuit omnia (sex) guttura sua 
+[^174]:  Argo, navis magica, loqui poterat
 
-[^175]:  monstro
+[^175]:  i.e. Scylla, monstrum maritimum qui quondam virgo Sicula (=in insulā Siciliae nata) fuit
 
-[^176]:  i.e. Sirenes; *Ausonium mare*: mare prope Siciliam
+[^176]:  i.e. habens canes rabidos circum ventrem suum
 
-[^177]:  (accusativus)
+[^177]:  i.e. simul aperuit omnia (sex) guttura sua 
 
-[^178]:  \= cum Orpheus Thracius, resonans Pieriā citharā, paene coegit Sirena, solitam retinere rates, sequi \[ratem suum, i.e. Argo\]
+[^178]:  monstro
 
-[^179]:  \= \[nova\] Argo, compacta Palladiā \[i.e. Minervae\] manu, ferensque remos regum, non \[iam\] quaeritur
+[^179]:  i.e. Sirenes; *Ausonium mare*: mare prope Siciliam
 
-[^180]:  mare
+[^180]:  (accusativus)
 
-[^181]:  parva navis
+[^181]:  \= cum Orpheus Thracius, resonans Pieriā citharā, paene coegit Sirena, solitam retinere rates, sequi \[ratem suum, i.e. Argo\]
 
-[^182]:  remotus, sublatus \[est\]
+[^182]:  \= \[nova\] Argo, compacta Palladiā \[i.e. Minervae\] manu, ferensque remos regum, non \[iam\] quaeritur
 
-[^183]:  i.e. mundus, nunc pervius, reliquit nil in loco suo solito
+[^183]:  mare
 
-[^184]:  flumen Armeniae
+[^184]:  parva navis
 
-[^185]:  flumen Germaniae (accusativus)
+[^185]:  remotus, sublatus \[est\]
 
-[^186]:  insula extremissima septentrionalis
+[^186]:  i.e. mundus, nunc pervius, reliquit nil in loco suo solito
 
-[^187]:  i.e. ab domo
+[^187]:  flumen Armeniae
 
-[^188]:  divinos, ab deis inspiratos
+[^188]:  flumen Germaniae (accusativus)
 
-[^189]:  cultrix Bacchi (nominativus femininus singularis)
+[^189]:  insula extrema septentrionalis
 
-[^190]:  *Pindus*: mons Thessaliae
+[^190]:  i.e. a domo
 
-[^191]:  *Nysa*: mons in quo Nymphae nutriverunt Bacchum infantem
+[^191]:  divinos, ab deis inspiratos
 
-[^192]:  insani, amentis
+[^192]:  cultrix Bacchi (nominativus femininus singularis)
 
-[^193]:  ridet
+[^193]:  *Pindus*: mons Thessaliae
 
-[^194]:  i.e. iam incertum est
+[^194]:  *Nysa*: mons in quo Nymphae nutriverunt Bacchum infantem
 
-[^195]:  i.e. faciet aliquid maius (peius) quam umquam fecit 
+[^195]:  insani, amentis
 
-[^196]:  \= si quaeris quem modum statuas \[i.e. tribuas, des\] odio
+[^196]:  ridet
 
-[^197]:  i.e. da odio eundem modum quem dedisti amori (*imitare*: imperativus)
+[^197]:  i.e. iam incertum est
 
-[^198]:  *faces regias*: faces nuptiales regum
+[^198]:  i.e. faciet aliquid maius (peius) quam umquam fecit 
 
-[^199]:  centralis (terra in centro universi sita esse censebatur)
+[^199]:  \= si quaeris quem modum statuas \[i.e. tribuas, des\] odio
 
-[^200]:  gyros, circulos
+[^200]:  i.e. da odio eundem modum quem dedisti amori (*imitare*: imperativus deponens)
 
-[^201]:  deerit (i.e. dum harena nimis numerosa erit ad enumerandum)
+[^201]:  *faces regias*: faces nuptiales regum
 
-[^202]:  *Arctos siccas*: Ursa Maior et Ursa Minor, quae numquam oceanum attingunt 
+[^202]:  centralis (terra in centro universi sita esse censebatur)
 
-[^203]:  absorbens, bibens
+[^203]:  gyros, circulos
 
-[^204]:  accusativus
+[^204]:  deerit (i.e. dum harena nimis numerosa erit ad enumerandum)
 
-[^205]:  \= quaeve Aetna, premens anhelantem Titana \[i.e. Enceladon aut Typhoeus, quem Dei sub Aetnam sepeliverunt\]
+[^205]:  *Arctos siccas*: Ursa Maior et Ursa Minor, quae numquam oceanum attingunt 
 
-[^206]:  valde ventosum
+[^206]:  absorbens, bibens
 
-[^207]:  *Corus*: ventus septentrionalis in Ponto Euxino flans
+[^207]:  accusativus
 
-[^208]:  meas
+[^208]:  \= quaeve Aetna, premens anhelantem Titana \[i.e. Enceladon aut Typhoeus, quem Dei sub Aetnam sepeliverunt\]
 
-[^209]:  sc. Iason
+[^209]:  valde ventosum
 
-[^210]:  Acasti, filii Peliae 
+[^210]:  *Corus*: ventus septentrionalis in Ponto Euxino flans
 
-[^211]:  i.e. etsi coactus erat (ad me repudiandam), poterat me, coniugem eius, alloqui ultimo sermone
+[^211]:  meas
 
-[^212]:  i.e. cum Creo fecit eum generem suum, posset poscere ab eo tempus longium fugiendo
+[^212]:  sc. Iason
 
-[^213]:  i.e. nullus dies postea
+[^213]:  Acasti, filii Peliae 
 
-[^214]:  domina
+[^214]:  i.e. etsi coactus erat (ad me repudiandam), poterat me, coniugem eius, alloqui ultimo sermone
 
-[^215]:  pereant
+[^215]:  i.e. cum Creo fecit eum generem suum, posset Iason poscere ab eo tempus longium fugiendo
 
-[^216]:  i.e. sors est pariter mala (noxia) cum saevit atque cum parcit
+[^216]:  i.e. nullus dies postea
 
-[^217]:  i.e. mihi
+[^217]:  domina
 
-[^218]:  Medeam
+[^218]:  pereant
 
-[^219]:  considere, in mente volvere
+[^219]:  i.e. sors est pariter mala (noxia) cum saevit atque cum parcit
 
-[^220]:  i.e. animus meus decrevit ut irem ad Medeam iratam, precandi causā
+[^220]:  i.e. mihi
 
-[^221]:  i.e. cum me vidit
+[^221]:  Medeam
 
-[^222]:  \= quam \[i.e. me, Medeam\] \[tu\] cogis profugere \[e\] penatibus tuis
+[^222]:  considere, in mente volvere
 
-[^223]:  sc. "me"
+[^223]:  i.e. animus meus decrevit ut irem ad Medeam iratam, precandi causā
 
-[^224]:  agmen
+[^224]:  i.e. cum me vidit
 
-[^225]:  i.e. te, Iasonem
+[^225]:  \= quam \[i.e. me, Medeam\] \[tu\] cogis profugere \[e\] penatibus tuis
 
-[^226]:  scopulos mobiles quae claudebant Bosphorum
+[^226]:  sc. "me"
 
-[^227]:  sc. "locum quo irem"
+[^227]:  agmen
 
-[^228]:  i.e. me, Medeam
+[^228]:  i.e. te, Iasonem
 
-[^229]:  carcere
+[^229]:  vide supra
 
-[^230]:  i.e. poenas minoras quam merui
+[^230]:  sc. "locum quo irem"
 
-[^231]:  i.e. memento
+[^231]:  i.e. me, Medeam
 
-[^232]:  *tauri, pecus, miles*: hostes quos Iason superavit propter auxilium Medeae
+[^232]:  carcere
 
-[^233]:  i.e. arma hostis subito apparentis
+[^233]:  i.e. poenas minoras quam merui
 
-[^234]:  agmen \[*terrigena*: quia e terrā surrexit; *mutua caede*: quia inter se interfecerunt\]
+[^234]:  i.e. memento
 
-[^235]:  i.e. vellus aureum
+[^235]:  *tauri, pecus, miles*: hostes quos Iason superavit propter auxilium Medeae
 
-[^236]:  \= monstrum insomne, iussum \[a me, Medea\] dare lumina \[i.e. oculos\] somno ignoto \[quia numquam ante dormiverat\]
+[^236]:  i.e. arma hostis subito orti
 
-[^237]:  quia corpus eius in multas partes divisit
+[^237]:  agmen \[*terrigena*: quia e terrā surrexit; *mutua caede*: quia inter se interfecerunt\]
 
-[^238]:  filias
+[^238]:  i.e. vellus aureum
 
-[^239]:  Pelia rex (vide supra)
+[^239]:  \= monstrum insomne, iussum \[a me, Medea\] dare lumina \[i.e. oculos\] somno ignoto \[quia numquam ante dormiverat\]
 
-[^240]:  domum certam
+[^240]:  quia corpus eius in multas partes divisit
 
-[^241]:  coniugii (ab *coniugium*, non *coniux*)
+[^241]:  filias
 
-[^242]:  i.e. quas Scythae ab Indiā auferrunt
+[^242]:  Peliae regis (vide supra)
 
-[^243]:  i.e. quas, quia domus vix potest tenere thesaurum refertum \[i.e. vellus aureum\], ponimus super arbora nemoris
+[^243]:  domum certam
 
-[^244]:  i.e. cum me suades hoc (i.e. abire), Creusae (uxori novae tuae) prodes
+[^244]:  coniugii (a *coniugium*, non *coniux*)
 
-[^245]:  i.e. me, Medeam
+[^245]:  i.e. quas Scythae ab Indiā auferrunt
 
-[^246]:  sc. "me"
+[^246]:  i.e. quas, quia domus vix potest tenere thesaurum refertum \[i.e. vellus aureum\], ponimus super arbora nemoris
 
-[^247]:  i.e. vita quae pudet accepisse (sceleribus causā) molesta est
+[^247]:  i.e. cum me suades hoc (i.e. abire), Creusae (uxori novae tuae) prodes
 
-[^248]:  i.e. si vitae te pudet, relinque eam\!
+[^248]:  i.e. me, Medeam
 
-[^249]:  (imperativus passivus)
+[^249]:  sc. "me" (*tuere*: imperativus deponens)
 
-[^250]:  i.e. placata sis, pro natos tuos
+[^250]:  i.e. vita quae pudet accepisse (sceleribus causā) ingrata, molesta est
 
-[^251]:  sc "natos"
+[^251]:  i.e. si vitae te pudet, relinque eam
 
-[^252]:  Sisyphus primus rex Corinthi fuit
+[^252]:  (imperativus passivus)
 
-[^253]:  i.e. omnia, et scelus quidem
+[^253]:  i.e. placata sis, pro natos tuos
 
-[^254]:  (textus corruptus atque incertus)
+[^254]:  sc "natos"
 
-[^255]:  i.e. ego contra Creonem
+[^255]:  Sisyphus primus rex Corinthi fuit
 
-[^256]:  polluas, foedes
+[^256]:  i.e. omnia, et scelus quidem
 
-[^257]:  \= Medea non cogit ut armes manūs in \[i.e. contra\] socerum \[Creonem\], nec ut te inquines caede cognatā \[i.e. Acasti, cognati tui\]
+[^257]:  (textus corruptus atque incertus)
 
-[^258]:  sc. "ut hostes"
+[^258]:  i.e. ego contra Creonem
 
-[^259]:  pater Medeae
+[^259]:  \= et \[tu\] ipsa, time casūs iam saepe expertos \[i.e. fortunam nimium saepe temptatam\]
 
-[^260]:  i.e. vincam eos omnes
+[^260]:  polluas, foedes
 
-[^261]:  i.e. cave ne cupias sceptra (T. Farnabius: "Vide potius ne perfide me repudies, ut regnum obtineas dotale cum Creusā")
+[^261]:  \= Medea non cogit ut armes manūs in \[i.e. contra\] socerum \[Creonem\], nec ut te inquines caede cognatā \[i.e. Acasti, cognati tui\]
 
-[^262]:  Medea vehementer irata rogat Iovem ut feriat Iasonem et ipsam pariter, cum ambo noxii sint 
+[^262]:  sc. "ut hostes"
 
-[^263]:  i.e. inter me et istum (Iasonem), non opus est deligere quem ferire debeas
+[^263]:  pater Medeae
 
-[^264]:  consolationem
+[^264]:  i.e. vincam eos omnes
 
-[^265]:  \= animus \[meus\] potest soletque contemnere opes regias, ut scis
+[^265]:  i.e. cave ne cupias sceptra (T. Farnabius: "Vide potius ne perfide me repudies, ut regnum obtineas dotale cum Creusā")
 
-[^266]:  sc. "mihi"
+[^266]:  Medea, vehementer irata, rogat Iovem ut feriat Iasonem et ipsam pariter, cum ambo noxii sint 
 
-[^267]:  effundam, fleam
+[^267]:  i.e. inter me et istum (Iasonem), non opus est deligere quem ferire debeas
 
-[^268]:  i.e. ne quidem Creo ipse posset me cogere ut tradam natos
+[^268]:  \= si \[ali\]quod solamen \[i.e. consolationem\] potest levare \[i.e. alleviare, mitigare\] fugam ex soceri domo
 
-[^269]:  i.e. quo ego laedam eum, ultionis causā
+[^269]:  \= animus \[meus\] potest soletque contemnere opes regias, ut scis
 
-[^270]:  *suprema mandata*: ultima verba (natibus dicenda)
+[^270]:  sc. "mihi"
 
-[^271]:  i.e. haec verba in irā locuta ignoscantur
+[^271]:  effundam, fleam
 
-[^272]:  i.e. ex memoriā tuā
+[^272]:  i.e. ne quidem Creo ipse posset me cogere ut tradam natos
 
-[^273]:  i.e. nihil aestimare scelus esse
+[^273]:  i.e. quo ego laedam eum, ultionis causā
 
-[^274]:  i.e. me timent omnes 
+[^274]:  *suprema mandata*: ultima verba (natibus dicenda)
 
-[^275]:  oppugna, feri (imperativus deponens)
+[^275]:  i.e. haec verba in irā locuta ignoscantur
 
-[^276]:  vestis muliebris
+[^276]:  i.e. ex memoriā tuā
 
-[^277]:  ornamentum colli 
+[^277]:  i.e. nihil aestimare scelus esse
 
-[^278]:  \= aurum \[crinale\] quod nitor \[i.e. fulgor, splendor\] gemmarum distinguit
+[^278]:  i.e. me timent omnes 
 
-[^279]:  Creusae
+[^279]:  oppugna, feri (imperativus deponens)
 
-[^280]:  uncta, humecta
+[^280]:  vestis feminina
 
-[^281]:  i.e. per totam domum
+[^281]:  ornamentum colli 
 
-[^282]:  i.e. repudiata
+[^282]:  \= aurum \[crinale\] quod nitor \[i.e. fulgor, splendor\] gemmarum distinguit
 
-[^283]:  ventus australis
+[^283]:  Creusae
 
-[^284]:  flumen Danubius 
+[^284]:  uncta, humecta
 
-[^285]:  i.e. destruit pontes
+[^285]:  i.e. per totam domum
 
-[^286]:  flumen Galliae
+[^286]:  i.e. repudiata
 
-[^287]:  mare
+[^287]:  ventus australis
 
-[^288]:  montes Balkani
+[^288]:  flumen Danubius 
 
-[^289]:  \= cupit ire obvius in enses ipsos \[i.e. periculum contemnit\]
+[^289]:  i.e. destruit pontes
 
-[^290]:  i.e. Iason
+[^290]:  flumen Galliae
 
-[^291]:  \= sed dominus profundi \[Neptunus\] furit regna secunda \[i.e. mare\] vinci
+[^291]:  mare
 
-[^292]:  Phaeton, qui currum Solis temere arripuit
+[^292]:  montes Balkani
 
-[^293]:  i.e. "nemini nocuit per viam notam ivisse" (T. Farnabius)
+[^293]:  \= cupit ire obvius in enses ipsos \[i.e. periculum non timet, immo desiderat\]
 
-[^294]:  i.e. vade per vias quae tutas erant populo priori \[i.e. maioribus\]
+[^294]:  i.e. Iason
 
-[^295]:  \= nec, violente, rumpe sacrosancta foedera mundi
+[^295]:  \= sed dominus profundi \[Neptunus\] furit regna secunda \[i.e. mare\] vinci
 
-[^296]:  i.e. Argonautae
+[^296]:  Phaeton, qui currum Solis temere arripuit
 
-[^297]:  "mons Thessaliae e quo excisa materia ad fabricandum Argo" (T. Farnabius)
+[^297]:  \= ipse recepit \[eosdem\] ignes quos, furiosus, sparsit polo \[i.e. caelo\]
 
-[^298]:  Symplegades (vide supra)
+[^298]:  i.e. "nemini nocuit per viam notam ivisse" (T. Farnabius)
 
-[^299]:  i.e. funem a quo navis sistitur
+[^299]:  i.e. vade per vias quae tutas erant populo priori \[i.e. veteribus\]
 
-[^300]:  i.e. velli aurei
+[^300]:  \= nec, violente, rumpe sacrosancta foedera mundi
 
-[^301]:  contemnata, violata
+[^301]:  *carina audax*: Argo navis
 
-[^302]:  expiavit
+[^302]:  "mons Thessaliae e quo excisa materia ad fabricandum Argo" (T. Farnabius)
 
-[^303]:  nunc poeta recenset fatum Argonautae, qui plerique perierunt dirā morte
+[^303]:  Symplegades (vide supra)
 
-[^304]:  i.e. tradidit imperium navis alio homini, a Minervā non edocto (ut Typhis fuit)
+[^304]:  i.e. funem a quo navis sistitur
 
-[^305]:  \= Aulis, memor regis amissi \[i.e. Typhis\], inde retinet carinas portibus lentis \[quasi ultionem in omnes naves sumeret; retinuit enim naves Achaeas in itinere ad Troiam.\]
+[^305]:  i.e. velli aurei
 
-[^306]:  i.e. aegre ferentes moram
+[^306]:  contemnata, violata (cum "*iura*")
 
-[^307]:  i.e. ille filius Camenae \[=Musae\] vocalis \[i.e. Orpheus\]
+[^307]:  expiavit
 
-[^308]:  flumen Thraciae; caput Orphei a corpore discerptum est, tunc in fluvio Hebro proiectum est, tandem ad inferos ("*Styga Tartarumque*") pervenit
+[^308]:  nunc poeta recenset fatum Argonautarum 
 
-[^309]:  *notam*: quia Orpheus iam visitaverat inferos antea, cum Eurydicem quaeret
+[^309]:  i.e. tradidit imperium navis alio homini, a Minervā non edocto (ut Typhis fuit)
 
-[^310]:  occidit, interfecit
+[^310]:  \= \[urbs\] Aulis, memor regis amissi \[i.e. Typhis\], inde retinet carinas portibus lentis \[quasi ultionem in omnes naves sumeret; retinuit enim naves Achaeas in itinere ad Troiam.\]
 
-[^311]:  Hercules
+[^311]:  i.e. aegre ferentes moram
 
-[^312]:  Zetes et Caetas, filii Aquilonis
+[^312]:  i.e. ille (Orpheus) filius Camenae (=Musae) vocalis
 
-[^313]:  Periclymenus, nepos Neptuni, qui formam corporis suis mutare poterat
+[^313]:  flumen Thraciae; caput Orphei a corpore discerptum est, tunc in fluvio Hebro proiectum est, tandem ad inferos ("*Styga Tartarumque*") pervenit
 
-[^314]:  i.e. Hercules
+[^314]:  *notam*: quia Orpheus iam antea visitaverat inferos, cum Eurydicem quaesivit
 
-[^315]:  victoriam
+[^315]:  occidit, necavit
 
-[^316]:  mons Thessaliae, ubi Hercules sese immolavit igne (*"ardenti*")
+[^316]:  Hercules
 
-[^317]:  mixtura sanguinum Hydrae Lernaeae atque centauri Nessi, a quo Hercules tam magnam dolorem accepit ut sese immolare decrevit
+[^317]:  Zetes et Caetas, filii Aquilonis
 
-[^318]:  Uxoris (qui dabit Herculi tunicam venenatam, inscia periculi)
+[^318]:  Periclymenum, nepotem Neptuni, qui formam corporis suis mutare poterat
 
-[^319]:  aper (sus) Calydonus, a Dianā missus
+[^319]:  i.e. Hercules
 
-[^320]:  vocativus (nominativus: *Meleager*)
+[^320]:  victoriam
 
-[^321]:  occidis
+[^321]:  mons Thessaliae, ubi Hercules sese immolavit igne (*"ardenti*")
 
-[^322]:  Hylas, iuvenis quem Hercules valde amavit, ab Naiadibus in fontem abductus
+[^322]:  *cruor geminus*: mixtura sanguinum Hydrae Lernaeae atque centauri Nessi, a quo Hercules tam magnam dolorem accepit ut sese immolare decrevit
 
-[^323]:  \= quod crimen tener puer \[Hylas\], Herculi magno inrepertus \[quia in aquam lapsus erat\], morte expiavit? \[sensus incertus; variae lectiones propositae sunt\]
+[^323]:  uxoris (qui dabit Herculi tunicam venenatam, inscia periculi)
 
-[^324]:  i.e. ite, scindite mare, cum fontes timendae sunt (ironicus)
+[^324]:  aper (sus) Calydonus, a Dianā missus
 
-[^325]:  Idmon, augur, quamquam praedixit se morire si Argonautis se adiungisset, tamen cum eis perrexit.
+[^325]:  vocativus (nominativus: *Meleager*)
 
-[^326]:  Mopsus, augur, poterat praedicere futurum aliorum hominum, sed non suum ipsius.
+[^326]:  occidis, interfecis
 
-[^327]:  Mopsus
+[^327]:  Hylas, iuvenis quem Hercules valde amavit, ab Naiadibus in fontem abductus
 
-[^328]:  Peleus, pater Achilli
+[^328]:  \= quod crimen tener puer \[Hylas\], Herculi magno inrepertus \[quia in aquam lapsus erat\], morte expiavit? \[sensus incertus; variae lectiones propositae sunt\]
 
-[^329]:  i.e. cum parabat nocere Argis (Graecis a Troia redientes), ignibus fallacibus accendente (ut naves Graecorum frangerentur in saxa)
+[^329]:  i.e. ite, scindite mare, cum fontes timendae sunt (ironicus)
 
-[^330]:  Palamedes, filius Nauplii
+[^330]:  Idmon, augur, quamquam praedixit se morire si Argonautis se adiungisset, tamen cum eis perrexit.
 
-[^331]:  *patrium crimen*: cum Argonautas navigare
+[^331]:  Mopsus, augur, poterat praedicere futurum aliorum hominum, sed non suum ipsius.
 
-[^332]:  Aiax minor, filius Oilei Argonautae, periit a fulmine in tempestate maritima
+[^332]:  Mopsus
 
-[^333]:  Alcestis, filia Peliae, atque uxor Admeti Pheraei, vitam suam obtulit ut vitam mariti servaret
+[^333]:  Peleus, pater Achilli
 
-[^334]:  *spolium aureum*: vellem aureum
+[^334]:  i.e. cum parabat nocere Argis (Graecis a Troia redientes), ignibus fallacibus accendente (ut naves Graecorum frangerentur in saxa)
 
-[^335]:  vide supra
+[^335]:  Palamedes, filius Nauplii
 
-[^336]:  i.e. Iasoni, qui iussus est vellem aureum quaerire
+[^336]:  *patrium crimen*: cum Argonautis navigare
 
-[^337]:  renovat
+[^337]:  Aiax minor, filius Oilei Argonautae, periit a fulmine in tempestate maritimā
 
-[^338]:  sc. "eam"
+[^338]:  Alcestis, filia Peliae, atque uxor Admeti Pheraei, vitam suam obtulit ut vitam mariti servaret
 
-[^339]:  insano, amente, ut ab fulmine percusso
+[^339]:  *spolium aureum*: vellus aureum
 
-[^340]:  aram
+[^340]:  vide supra
 
-[^341]:  profert
+[^341]:  i.e. Iasoni, qui iussus est vellus aureum quaerire
 
-[^342]:  patefacit, ostendit
+[^342]:  renovat
 
-[^343]:  *triste sacrum*: aram tristem
+[^343]:  sc. "eam"
 
-[^344]:  montes Asiae minoris
+[^344]:  insano, amenti, ut a fulmine percusso
 
-[^345]:  septentrionali, boreali
+[^345]:  aram
 
-[^346]:  *squamifera turba*: angues, serpentes
+[^346]:  profert
 
-[^347]:  sc. "Medeae"
+[^347]:  patefacit, ostendit
 
-[^348]:  accretis
+[^348]:  *triste sacrum*: aram tristem
 
-[^349]:  i.e. altius quam fraudem vulgarem
+[^349]:  montes Asiae minoris
 
-[^350]:  \= ille anguis \[i.e. constellatio Draconis\], iacens more vasti torrentis \[i.e. sinuosus\], descendat huc
+[^350]:  septentrionali, boreali
 
-[^351]:  constellatio Draconis inter Ursam Maiorem et Ursam Minorem ("*ferae*") stat
+[^351]:  *squamifera turba*: angues, serpentes
 
-[^352]:  sc. ad navigandum
+[^352]:  sc. "Medeae"
 
-[^353]:  constellatio Ophiuchus stat inter duas partes constellationis Serpentis, quasi eam premeret manibus
+[^353]:  accumulatis
 
-[^354]:  venenumque
+[^354]:  i.e. altius quam fraudem vulgarem
 
-[^355]:  \= Python, ausus lacessere gemina numina \[Apollonem et Dianam\]
+[^355]:  \= ille anguis \[i.e. constellatio Draconis\], iacens more vasti torrentis \[i.e. sinuosus\], descendat huc
 
-[^356]:  serpens quae vellem aureum custodiebat
+[^356]:  constellatio Draconis inter Ursam Maiorem et Ursam Minorem ("*ferae*") stat
 
-[^357]:  \= tu quoque ades, serpens pervigil, primum sopite cantibus meis \[i.e. quae numquam dormivisti antequam cantūs mei te soporaverunt\], Colchis relictis
+[^357]:  sc. ad navigandum
 
-[^358]:  *frugis infaustae mala*: potestatem herbarum maleficarum
+[^358]:  constellatio Ophiuchus stat inter duas partes constellationis Serpentis, quasi eam premeret manibus
 
-[^359]:  quibus
+[^359]:  venenumque
 
-[^360]:  collegunt
+[^360]:  \= Python, ausus lacessere gemina numina \[Apollonem et Dianam\]
 
-[^361]:  nemoribus
+[^361]:  serpens quae vellus aureum custodiebat
 
-[^362]:  populus Germanicus. *Hyrcania* prope Persiam est; *Hercynia* autem silva Germanica est.
+[^362]:  \= tu quoque ades, serpens pervigil, primum sopite cantibus meis \[i.e. quae numquam dormivisti antequam cantūs mei te soporaverunt\], Colchis relictis
 
-[^363]:  \= quodcumque tellus creat, vere nidifico \[i.e. in tempore veris, cum nidi construuntur\], aut cum iam rigida bruma \[i.e. frigor hiemis\] discussit decus nemorum
+[^363]:  *frugis infaustae mala*: potestatem herbarum maleficarum
 
-[^364]:  tangit, sumit
+[^364]:  mons Siciliae
 
-[^365]:  *Athos, Pindus, Pangaeum*: montes Graeci
+[^365]:  quibus
 
-[^366]:  \= illa \[planta in\] iugis Pangaei deposuit teneram comam \[i.e. folia\], cruentā falce \[secante\]
+[^366]:  colligunt
 
-[^367]:  *arentes plagas*: locos siccos
+[^367]:  nemoribus
 
-[^368]:  flumen Indiae
+[^368]:  populus Germanicus. *Hyrcania* prope Persiam est; *Hercynia* autem silva Germanica est.
 
-[^369]:  flumen Baetis, in Hispaniā, qui nomen dedit terrae Baeticae
+[^369]:  \= quodcumque tellus creat, vere nidifico \[i.e. in tempore veris, cum nidi construuntur\], aut cum iam rigida bruma \[i.e. frigor hiemis\] discussit decus nemorum
 
-[^370]:  *Hesperia maria*: mare occidentale
+[^370]:  tangit, sumit
 
-[^371]:  *languenti vado*: aquis lentis
+[^371]:  *Athos, Pindus, Pangaeum*: montes Graeci
 
-[^372]:  i.e. haec (herba) secta est ante sole orto
+[^372]:  \= illa \[planta in\] iugis Pangaei deposuit teneram comam \[i.e. folia\], cruentā falce \[secante\]
 
-[^373]:  sc. "est"
+[^373]:  *arentes plagas*: locos siccos
 
-[^374]:  \= at seges huius \[plantae\] secta \[est\] ungue \[digiti, atque\] cantato \[carmine magico\] 
+[^374]:  flumen Indiae
 
-[^375]:  *sanies*: pus, sanguis foeda
+[^375]:  flumen Baetis, in Hispaniā, qui nomen dedit terrae Baeticae
 
-[^376]:  *bubo, strix*: aves nocturnae 
+[^376]:  *Hesperia maria*: mare occidentale
 
-[^377]:  i.e. has alias res
+[^377]:  *languenti vado*: aquis lentis
 
-[^378]:  separata
+[^378]:  i.e. haec (herba) secta est ante sole orto
 
-[^379]:  i.e. in his
+[^379]:  sc. "est"
 
-[^380]:  insano, amenti
+[^380]:  \= at seges huius \[plantae\] secta \[est\] ungue \[digiti, atque\] cantato \[carmine magico\] 
 
-[^381]:  sc. "incantationes"
+[^381]:  *sanies*: pus, sanguis foeda
 
-[^382]:  *vulgus silentum*: manes, animae mortuorum
+[^382]:  *bubo, strix*: aves nocturnae 
 
-[^383]:  i.e. nuptias Iasonis et Creusae
+[^383]:  i.e. has alias res
 
-[^384]:  i.e. sistat rota quae torquet membra (Ixionis)
+[^384]:  separata
 
-[^385]:  Creon
+[^385]:  i.e. in his
 
-[^386]:  Sisyphus, pater Creonis, solus non liberatur a cruciatu eius, ad Creonem vexatum 
+[^386]:  insano, amenti
 
-[^387]:  Hecate, dea Lunae atque magiae, quae tria corpora et tria capita habet ("*triformis*", v. 7\)
+[^387]:  sc. "incantationes"
 
-[^388]:  \= solvens comam \[meam a\] vinculo, more gentis \[meae, i.e. Colchidis\]
+[^388]:  *vulgus silentum*: manes, animae mortuorum
 
-[^389]:  i.e. longius in terras
+[^389]:  \= specūs squalidae Mortis, ligatos \[i.e. circumdatos\] ripis Tartari
 
-[^390]:  Ursa Minor et Ursa Maior fere numquam tangunt Oceanum (i.e. numquam horizontem transeunt \- vide supra)
+[^390]:  i.e. nuptias Iasonis et Creusae
 
-[^391]:  mirabilis, quia aestas sicca et arida est
+[^391]:  i.e. sistat rota quae torquet membra (Ixionis)
 
-[^392]:  *Phasis, Hister*: flumina (vide supra)
+[^392]:  \= poena gravior sedeat uni: socero coniugis mei \[i.e. Creoni\]
 
-[^393]:  feras, saevas
+[^393]:  i.e. Sisyphus, pater Creonis, solus non liberetur a cruciatu eius, immo labor eius augeatur, ad Creonem vexandum 
 
-[^394]:  *Hyades*: constellatio (vide supra)
+[^394]:  Hecate, dea Lunae atque magiae, quae tria corpora et tria capita habet ("*triformis*", v. 7\)
 
-[^395]:  coronas herbaceas
+[^395]:  \= solvens comam \[meam a\] vinculo, more gentis \[meae, i.e. Colchidis\]
 
-[^396]:  novies, novem spiralibus
+[^396]:  i.e. longius in terras
 
-[^397]:  *vector*: Nessus, qui Deianeiram (uxorem Herculis) vexit trans fluvium; sanguis eius venenatus erat, et causavit mortem Herculis (vide supra)
+[^397]:  Ursa Minor et Ursa Maior non solent tangere mare (i.e. numquam horizontem transeunt)
 
-[^398]:  "cinis hic est e rogo quo Hercules in Oetaeo monte combuftus eft, imbibitque virus quo infectus eft" (T. Farnabius)
+[^398]:  mirabilis, quia aestas sicca et arida est
 
-[^399]:  quae necavit filium (Meleagrem) cum face e rogo erepta, ut fratrem ulcisceretur (vide supra).
+[^399]:  *Phasis, Hister*: flumina (vide supra)
 
-[^400]:  dea foedissima, corpus avis et caput foeminae habens
+[^400]:  feras, saevas
 
-[^401]:  avis fabulosa, a Hercule necatus
+[^401]:  *Hyades*: constellatio (vide supra)
 
-[^402]:  \= his addice pinnas Stymphalidos \[genitivus\] sauciae, passae spicula Lernaea \[i.e. tela cum sanguine Hydrae Lernaeae venenata\]
+[^402]:  coronas herbaceas
 
-[^403]:  \= agnosco tripodas meos, commotos \[a\] deā favente \[i.e. aestimo sonitum arae omen faustum esse, simile tripodibus Pythiae Delphica\]
+[^403]:  novies, novem spiralibus
 
-[^404]:  Hecates (Lunam agens, ut Phoebus agit Solem)
+[^404]:  sc. "serpentis"
 
-[^405]:  sc. "eos"
+[^405]:  *vector*: Nessus, Centaurus qui Deianeiram (uxorem Herculis) vexit trans fluvium; sanguis eius venenatus causavit mortem Herculis (vide supra)
 
-[^406]:  turbata, imprecata
+[^406]:  "cinis hic est e rogo quo Hercules in Oetaeo monte combustus eft, imbibitque virus quo infectus eft" (T. Farnabius)
 
-[^407]:  strictiore
+[^407]:  Althaea necavit filium suum Meleagrem cum face erepta e rogo, ut fratrem suam (a Meleagre interfectum) ulcisceretur (vide supra).
 
-[^408]:  pergit
+[^408]:  dea foedissima, corpus avis et caput foeminae habens
 
-[^409]:  strepitus et clangor putebantur dispellere eclipses Lunae
+[^409]:  avis fabulosa, a Hercule necata
 
-[^410]:  arā
+[^410]:  \= his addice pinnas Stymphalidos \[genitivus\] sauciae, passae spicula Lernaea \[i.e. tela cum sanguine Hydrae Lernaeae venenata\]
 
-[^411]:  vide supra
+[^411]:  \= agnosco tripodas meos, commotos \[a\] deā favente \[i.e. aestimo sonitum arae omen faustum esse, simile tripodibus Pythiae Delphicae ab Apollone commotis\]
 
-[^412]:  non tantum ipsius, sed etiam cognatorum
+[^412]:  Hecates (Lunam agens, ut Phoebus agit Solem)
 
-[^413]:  sc. "meis"
+[^413]:  sc. "eos"
 
-[^414]:  Hecate, filia Persei regis
+[^414]:  turbata, imprecata
 
-[^415]:  quem donare Creusae intendet, vide supra
+[^415]:  strictiore
 
-[^416]:  fecundo, semper vivente
+[^416]:  lustrat, pererrat
 
-[^417]:  \= quem Prometheus, qui luit furta \[i.e. poenas dat pro furtem\] viscere feto, dedit mihi et docuit condere vires arte
+[^417]:  strepitus et clangor putebantur dispellere eclipses Lunae
 
-[^418]:  Vulcanus
+[^418]:  arā
 
-[^419]:  pars media corporis Chimaerae, capris formam habens, flammas emittit
+[^419]:  i.e. pro te, cingi capillos meos cum vittā, more funereo positā (super caput meum)
 
-[^420]:  quem Iason superavit in Colchide
+[^420]:  cultrix Bacchi 
 
-[^421]:  transeat 
+[^421]:  i.e. assuesce fundere sanguinem, non meum ipsius tantum, sed etiam cognatorum
 
-[^422]:  i.e. fulgat Creusa, in igne consumpta, magis quam faces nuptiales eius
+[^422]:  sc. "meis"
 
-[^423]:  Creusae
+[^423]:  Hecate, filia Persei regis
 
-[^424]:  \= et, superba, quatiens caput feroci motu, minatur ultro \[i.e. etiam\] regi
+[^424]:  *auro*: monile aureum quem donare Creusae intendet, vide supra
 
-[^425]:  \= quando efferet nefanda Colchis \[i.e. Medea\] gressum \[ex\] arvis Pelasgis \[i.e. Graecis\] ?
+[^425]:  fecundo, semper vivente
 
-[^426]:  stella vesperis
+[^426]:  \= quem Prometheus, qui luit furta \[i.e. poenas dat pro furtem\] viscere feto, dedit mihi et docuit condere vires arte
 
-[^427]:  i.e. iacete aquam ad flammas extinguandas
+[^427]:  Vulcanus
 
-[^428]:  i.e. ignis occupat etiam praesidia (i.e. aquam, praesidium contra ignem)
+[^428]:  pars media corporis Chimaerae, capris formam habens, flammas emittit
 
-[^429]:  i.e. ab Corintho (in apice Peloponnesi sita)
+[^429]:  quem Iason superavit in Colchide
 
-[^430]:  sc. Iasonem
+[^430]:  transeat 
 
-[^431]:  i.e uxore orbatus
+[^431]:  i.e. fulgat Creusa, in igne consumpta, magis quam faces nuptiales eius
 
-[^432]:  haud
+[^432]:  Creusae
 
-[^433]:  *purae manūs*: cum Medea putat Creonem inimicum atque Creusam paelicem esse, mors eorum non iniusta videtur ei
+[^433]:  \= et, superba, quatiens caput feroci motu, minatur ultro \[i.e. etiam\] regi
 
-[^434]:  morantem, cunctantem
+[^434]:  \= quando efferet nefanda Colchis \[i.e. Medea\] gressum \[ex\] arvis Pelasgis \[i.e. Graecis\] ?
 
-[^435]:  (imperativus)
+[^435]:  stella vesperis
 
-[^436]:  commissum, factum
+[^436]:  *modus*: finis, terminus
 
-[^437]:  sc. "prae iis quae admittenda restant" (T. Farnabius)
+[^437]:  i.e. iacite aquam ad flammas exstinguendas
 
-[^438]:  i.e. et fac ut sciant
+[^438]:  i.e. ignis occupat etiam praesidia (i.e. aquam, praesidium contra ignem)
 
-[^439]:  praebui \[Iasoni, ut eum adiuverem\]
+[^439]:  i.e. ab Corintho (in apice Peloponnesi sita)
 
-[^440]:  Inexpertes, noviciae
+[^440]:  sc. Iasonem
 
-[^441]:  sc. "fratris"
+[^441]:  i.e uxore orbatus
 
-[^442]:  *arcanum sacrum*: vellus aureum
+[^442]:  haud
 
-[^443]:  Peliae
+[^443]:  *purae manūs*: cum Medea putat Creonem inimicum atque Creusam paelicem esse, mors eorum non iniusta videtur ei
 
-[^444]:  Iasoni
+[^444]:  morantem, cunctantem
 
-[^445]:  i.e. stulta sum, quia nimis celeriter egi
+[^445]:  (imperativus)
 
-[^446]:  Creusā
+[^446]:  commissum, factum
 
-[^447]:  sc. ut ultionem efficerem in eos quoque
+[^447]:  sc. "prae iis quae admittenda restant" (T. Farnabius)
 
-[^448]:  i.e. cum Creusa Iasonem nubit, pueri tui nunc Creusae sunt
+[^448]:  i.e. et fac ut sciant
 
-[^449]:  Medea secum deliberat et haesitat
+[^449]:  praebui \[Iasoni, ut eum adiuverem\]
 
-[^450]:  sc. eorum
+[^450]:  inexpertes, noviciae
 
-[^451]:  *variam*: me, Medeam, haesitantem
+[^451]:  sc. "fratris"
 
-[^452]:  fluctus duplex
+[^452]:  *arcanum sacrum*: vellus aureum
 
-[^453]:  \= ut cum venti rapidi gerunt saeva bella
+[^453]:  Peliae
 
-[^454]:  pellunt
+[^454]:  Iasoni
 
-[^455]:  sc. "ut"
+[^455]:  \= animus ferox decrevit nescio quid intus
 
-[^456]:  dea ultionis
+[^456]:  i.e. stulta sum, quia nimis celeriter egi
 
-[^457]:  *superbae Tantalidos*: Niobe, filia Tantali, quae quatuordecim natos peperit, omnesque amisit cum ei interfectus sunt ab Appollone et Dianā, ad superbam eius puniendam.
+[^457]:  Creusā
 
-[^458]:  i.e. ego peperi nimis paucos natios in quos ultionem capere possem; sed peperi duos, quod est satis ad ultionem patris et fratris
+[^458]:  sc. ut ultionem efficerem in eos quoque
 
-[^459]:  nunc, per phantasiam, Medea putat se videre Furias, deas ultionis
+[^459]:  i.e. cum Creusa Iasonem nubit, pueri Iasonis nunc Creusae sunt
 
-[^460]:  Furiae gerebant angues ut flagella viva, atque trabes (i.e. faces)
+[^460]:  Medea secum deliberat et haesitat
 
-[^461]:  una e Furiarum
+[^461]:  sc. eorum
 
-[^462]:  i.e. in oculis (meis)
+[^462]:  *variam*: me, Medeam, haesitantem
 
-[^463]:  sc. "me"
+[^463]:  fluctus duplex
 
-[^464]:  sc. "meus"
+[^464]:  \= ut cum venti rapidi gerunt saeva bella
 
-[^465]:  (imperativus)
+[^465]:  pellunt
 
-[^466]:  sc. "in te"
+[^466]:  sc. "ut"
 
-[^467]:  coepta
+[^467]:  dea ultionis
 
-[^468]:  i.e. vos omnes qui, fidi, doletis cladibus regum vestrum
+[^468]:  *superbae Tantalidos*: Niobe, filia Tantali, quae quatuordecim natos peperit, omnesque amisit cum ei interfectus sunt ab Appollone et Dianā, ad superbiam eius puniendam.
 
-[^469]:  "iam postquam iniurias ulta sum, videor mihi abunde omnia priora damna recuperaffe." (T. Farnabius)
+[^469]:  i.e. ego peperi nimis paucos natos in quos ultionem capere possem; sed peperi duos, quod est satis ad ultionem patris et fratris
 
-[^470]:  i.e. etsi paenitet, hoc factus est, neque potest rescindi.
+[^470]:  nunc, per phantasiam, Medea putat se videre Furias, deas ultionis
 
-[^471]:  \= hoc unum de\[e\]rat mihi: iste spectator \[i.e. Iason, crimen meum vidente\]
+[^471]:  Furiae gerebant angues ut flagella viva, atque trabes (i.e. faces)
 
-[^472]:  i.e. quidquid feci adhuc, nihil est mihi, quia Iason nondum aderat neque spectavit 
+[^472]:  una ex Furiarum
 
-[^473]:  (imperativus; *congero*: construo, colligo)
+[^473]:  i.e. in oculis (meis)
 
-[^474]:  *iusta functis*: funera (*functis*: defunctis, mortuis)
+[^474]:  sc. "me"
 
-[^475]:  "Imo pie et pro tuo officio feceris, si rogum tuis natis a me caesis construxeris, namque ego conjugi tuae ac socero pyram accendi. *Sarcasmus*." (T. Farnabius)
+[^475]:  sc. "meus"
 
-[^476]:  periit
+[^476]:  (imperativus)
 
-[^477]:  i.e. filius alter, nondum interfectus
+[^477]:  sc. "in te"
 
-[^478]:  *torus*: cubile nuptiale (=thalami)
+[^478]:  coepta
 
-[^479]:  renuas, nolis
+[^479]:  i.e. vos omnes qui, fidi, doletis cladibus regum vestrum
 
-[^480]:  \= tamen numerus angustus \[i.e. parvus\] nimium est dolori \[meo\]
+[^480]:  "iam postquam iniurias ulta sum, videor mihi abunde omnia priora damna recuperaffe." (T. Farnabius)
 
-[^481]:  i.e. si ego me sentirem gravidam esse (de te), extraherem foetum ab utero meo cum ense
+[^481]:  i.e. etsi paenitet, hoc factus est, neque potest rescindi.
 
-[^482]:  i.e. propera, atque remitte moram supplicis meis (sensus incertus)
+[^482]:  \= hoc unum de\[e\]rat mihi: iste spectator \[i.e. Iason, crimen meum vidente\]
 
-[^483]:  offerrem, darem
+[^483]:  i.e. quidquid feci adhuc, nihil est mihi, quia Iason nondum aderat neque spectavit 
+
+[^484]:  (imperativus; *congero*: construo, colligo)
+
+[^485]:  *iusta functis*: funera (*functis*: defunctis, mortuis)
+
+[^486]:  "Imo pie et pro tuo officio feceris, si rogum tuis natis a me caesis construxeris, namque ego conjugi tuae ac socero pyram accendi. *Sarcasmus*." (T. Farnabius)
+
+[^487]:  periit
+
+[^488]:  i.e. filius alter, nondum interfectus
+
+[^489]:  *torus*: cubile nuptiale (=thalami)
+
+[^490]:  renuas, nolis
+
+[^491]:  \= tamen numerus angustus \[i.e. parvus\] nimium est dolori meo
+
+[^492]:  i.e. si ego me sentirem gravidam esse (de te), extraherem foetum ab utero meo cum ense
+
+[^493]:  i.e. propera, atque remitte moram supplicis meis (sensus incertus)
+
+[^494]:  offerrem, darem
