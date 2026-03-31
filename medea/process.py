@@ -3,7 +3,7 @@ import re
 def dashrepl(matchobj):
     return '<label for="'+matchobj.group(1)+'" class="margin-toggle sidenote-number"></label><input type="checkbox" id="'+matchobj.group(1)+'" class="margin-toggle"/><span class="sidenote">'+notes_dict[matchobj.group(1)]+'</span>'
     
-with open('medea.html') as file:
+with open('Medea.html') as file:
        lines = [line for line in file]
 
 cpt=0
